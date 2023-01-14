@@ -1,0 +1,216 @@
+﻿{
+    "urMappingList": [
+        {
+            "oldUrl":  "/sabzis/bharwa-baingan---stuffed-eggplant",
+            "newUrl": "#!/recipe/stuffed_egg_plant"
+        },
+		{
+            "oldUrl":  "/curries/daal-tadka",
+            "newUrl": "#!/recipe/dal_tadka"
+        },
+		{
+            "oldUrl":  "/curries/methi-da",
+            "newUrl": "#!/recipe/methi_dal"
+        },
+        {
+            "oldUrl":  "/desserts/chawal-ki-kheer---rice-pudding",
+            "newUrl": "#!/recipe/rice_pudding"
+        },
+        {
+            "oldUrl":  "/pickles-chutneys/tomato-tamarind-chutney",
+            "newUrl": "#!/recipe/tomato_tamarind_chutney"
+        },
+        {
+            "oldUrl":  "/desserts/carrot-walnut-cake",
+            "newUrl": "#!/recipe/carrot_walnut_cake"
+        },
+        {
+            "oldUrl":  "/desserts/jalebi",
+            "newUrl": "#!/recipe/jalebi"
+        },
+        {
+            "oldUrl":  "/desserts/kalakand",
+            "newUrl": "#!/recipe/kalakand"
+        },
+        {
+            "oldUrl":  "/desserts/nariyal-ke-laddu",
+            "newUrl": "#!/recipe/nariyal_ke_laddo"
+        },
+        {
+            "oldUrl":  "/desserts/rasmalai",
+            "newUrl": "#!/recipe/rasmalai"
+        },
+        {
+            "oldUrl":  "/desserts/semolina-mango-cake",
+            "newUrl": "#!/recipe/semolina_mango_cake"
+        },
+        {
+            "oldUrl":  "/desserts/unniyappam",
+            "newUrl": "#!/recipe/uniyappam"
+        },
+        {
+            "oldUrl":  "/snacks/dahi-kabab-curd-cutlets",
+            "newUrl": "#!/recipe/dahi_kebab"
+        },
+        {
+            "oldUrl":  "/snacks/aloo-chat-1",
+            "newUrl": "#!/recipe/aloo_chat"
+        },
+        {
+            "oldUrl":  "/snacks/sabudana-vada-fried-tapioca-cutlets",
+            "newUrl": "#!/recipe/sabudana_vada"
+        },
+        {
+            "oldUrl":  "/non-vegetarian/chicken-liver-fry",
+            "newUrl": "#!/recipe/chicken_liver_fry"
+        },
+        {
+            "oldUrl":  "/non-vegetarian/spicy-egg-masala",
+            "newUrl": "#!/recipe/spicy_egg_masala"
+        },
+        {
+            "oldUrl":  "/non-vegetarian/achari-chicken",
+            "newUrl": "#!/recipe/achari_chicken"
+        },
+        {
+            "oldUrl":  "/rice-and-rotis/chicken-biryani",
+            "newUrl": "#!/recipe/chicken_dum_biryani"
+        },
+        {
+            "oldUrl":  "/non-vegetarian/spicy-prawns-curry",
+            "newUrl": "#!/recipe/shrimp_curry"
+        },
+        {
+            "oldUrl":  "/non-vegetarian/mutton-curry",
+            "newUrl": "#!/recipe/mutton_curry"
+        },
+        {
+            "oldUrl":  "/pickles-chutneys/chicken-pickle",
+            "newUrl": "#!/recipe/chicken_pickle"
+        },
+        {
+            "oldUrl":  "/non-vegetarian/fish-curry-kerala-style",
+            "newUrl": "#!/recipe/kerala_fish_curry"
+        },
+        {
+            "oldUrl":  "/non-vegetarian/baked-salmon-fish",
+            "newUrl": "#!/recipe/baked_fish"
+        },
+        {
+            "oldUrl":  "/non-vegetarian/kerala-chicken-curry",
+            "newUrl": "#!/recipe/chicken_curry"
+        },
+        {
+            "oldUrl":  "/curries/coconut-curd-curry",
+            "newUrl": "#!/recipe/coconut_curd_curry"
+        },
+        {
+            "oldUrl":  "/rice-and-rotis/band-gobi-cabbage-paratha",
+            "newUrl": "#!/recipe/cabbage_paratha"
+        },
+        {
+            "oldUrl":  "/pickles-chutneys/sweet-tamarind-chutney",
+            "newUrl": "#!/recipe/sweet_tamarind_chutney"
+        },
+        {
+            "oldUrl":  "/curries/green-moong-curry",
+            "newUrl": "#!/recipe/green_moong_curry"
+        },
+        {
+            "oldUrl":  "/curries/dahi-curry",
+            "newUrl": "#!/recipe/curd_curry"
+        },
+        {
+            "oldUrl":  "/curries/tomato-rasam",
+            "newUrl": "#!/recipe/tomato_rasam"
+        },
+        {
+            "oldUrl":  "/pickles-chutneys/peanut-chutney",
+            "newUrl": "#!/recipe/peanut_chutney"
+        },
+        {
+            "oldUrl":  "/rice-and-rotis/methi--fenugreek-pulao",
+            "newUrl": "#!/recipe/methi_pulao"
+        },
+        {
+            "oldUrl":  "/snacks/dhokla",
+            "newUrl": "#!/recipe/instant_sooji_dhokla"
+        },
+        {
+            "oldUrl":  "/snacks/shakkarpaare",
+            "newUrl": "#!/recipe/shakkarpaare"
+        },
+        {
+            "oldUrl":  "/snacks/kanda-pohe",
+            "newUrl": "#!/recipe/kanda_pohe"
+        },
+        {
+            "oldUrl":  "/curries/moong-dal",
+            "newUrl": "#!/recipe/yellow_moong_dal"
+        },
+        {
+            "oldUrl":  "/snacks/instant-egg-dosa",
+            "newUrl": "#!/recipe/instant_egg_dosa"
+        },
+        {
+            "oldUrl":  "/non-vegetarian/fish-curry-andhra-style",
+            "newUrl": "#!/recipe/sesame_fish_curry"
+        },
+        {
+            "oldUrl":  "/snacks/ragda-patties",
+            "newUrl": "#!/recipe/ragda_pattice"
+        },
+        {
+            "oldUrl":  "/soups-bevereges/chai---tea",
+            "newUrl": "#!/recipe/tea"
+        },
+        {
+            "oldUrl":  "/sabzis/paneer-bhurji",
+            "newUrl": "#!/recipe/paneer_bhurji"
+        },
+        {
+            "oldUrl":  "/sabzis/veg-thoran",
+            "newUrl": "#!/recipe/veg_thoran"
+        },
+        {
+            "oldUrl":  "/snacks/vada-pav",
+            "newUrl": "#!/recipe/vada_pav"
+        },
+        {
+            "oldUrl":  "/soups-bevereges/noodle-soup",
+            "newUrl": "#!/recipe/chicken_noodle_soup"
+        },
+        {
+            "oldUrl":  "/sabzis/beetroot-chukandar",
+            "newUrl": "#!/recipe/beetroot_sabzi"
+        },
+        {
+            "oldUrl":  "/sabzis/malai-methi-matar",
+            "newUrl": "#!/recipe/malai_methi_matar"
+        },
+        {
+            "oldUrl":  "/curries/sambhar",
+            "newUrl": "#!/recipe/sambhar"
+        },
+        {
+            "oldUrl":  "/pickles-chutneys/green-chutney",
+            "newUrl": "#!/recipe/green_chutney"
+        },
+        {
+            "oldUrl":  "/pickles-chutneys/onion-chutney",
+            "newUrl": "#!/recipe/onion_chutney"
+        },
+        {
+            "oldUrl":  "/non-vegetarian/pepper-scallops",
+            "newUrl": "#!/recipe/pepper_scallops"
+        },
+        {
+            "oldUrl":  "/non-vegetarian/chicken-kathi-rolls",
+            "newUrl": "#!/recipe/chicken_kathi_roll"
+        },
+        {
+            "oldUrl":  "/sabzis/palak-paneer",
+            "newUrl": "#!/recipe/palak_paneer"
+        }
+    ]
+}

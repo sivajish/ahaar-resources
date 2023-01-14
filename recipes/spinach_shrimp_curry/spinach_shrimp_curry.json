@@ -1,0 +1,178 @@
+{
+  "recipeId": "spinach_shrimp_curry",
+  "recipeName": "Spinach Shrimp Curry",
+  "recipeSmallImageUrl": "recipe_small_image.jpg",
+  "recipeLargeImageUrl": "recipe_big_image.jpg",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Spinach shrimp curry or palak jhinga curry in one of the delicacy from Konkan. Malabar Spinach or better known as Vaala Bhaji is used in the original recipe."
+    },
+    {
+      "recipeDescriptionLine": "Like most of the konkan dishes,coconut is used in this dish which brings sweetness to this dish."
+    }
+  ],
+  "preface": "",
+  "servings": "4",
+  "prepTime": "15 mins",
+  "cookTime": "40 mins",
+  "publishDate": "2017-02-09T06:57:50.595Z",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "",
+      "ingredientList": [
+        {
+          "ingredientName": "Spinach",
+          "measurementQuantity": "4 cups, finely chopped"
+        },
+        {
+          "ingredientName": "Shrimp",
+          "measurementQuantity": "2 cups"
+        },
+        {
+          "ingredientName": "Tomatoes",
+          "measurementQuantity": "2, finely chopped"
+        },
+        {
+          "ingredientName": "Onion",
+          "measurementQuantity": "1 medium, sliced"
+        },
+        {
+          "ingredientName": "Garlic",
+          "measurementQuantity": "8-10 cloves"
+        },
+        {
+          "ingredientName": "Coconut",
+          "measurementQuantity": "1/2 cup"
+        },
+        {
+          "ingredientName": "Coriander Powder",
+          "measurementQuantity": "1 1/2 tbsp"
+        },
+        {
+          "ingredientName": "Red Chilly Powder",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Mustard seeds",
+          "measurementQuantity": "1 tsp"
+        },
+        {
+          "ingredientName": "Fenugreek Seeds",
+          "measurementQuantity": "1 pinch"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "To taste"
+        },
+        {
+          "ingredientName": "Oil",
+          "measurementQuantity": "2-3 tbsp"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "",
+      "procedureSteps": [
+        {
+          "stepDescription": "Devein the shrimp by removing the skin and remove heads and tail. Also discard the black sand vein that is present along the center of the back.If using large shrimp,cut it into half.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_1.jpg",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Pressure cook spinach and tomatoes up to 3 whistles. Once it cools down, mash it gently.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_1.jpg",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_2.jpg",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_3.jpg",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_4.jpg",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "In a pan dry roast mustard and fenugreek seeds. Keep it aside.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_1.jpg",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "In the same pan, heat oil and fry onions and garlic on a medium flame till onions are turned brown. Add coconut and fry on a low flame till it turns brown. Switch of the stove and add coriander powder, mix it well. Once the mixture cools down, grind it to a fine paste with roasted mustard and fenugreek seeds.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_4_1.jpg",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_2.jpg",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_3.jpg",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_4.jpg",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Add this paste to cooked spinach and add salt. Mix it well and allow it to come to boil. Then add shrimp and cook it for another 2-3 minutes. Serve hot with rice, dosa and paanpole.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_5_1.jpg",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_5_2.jpg",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_5_3.jpg",
+              "ImageAltText": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "tipDesc": "Variations can be made if fresh shrimp is replaced with clams (fresh or dry) or dry shrimp."
+    }
+  ],
+  "relatedRecipes": [
+    {
+      "recipeId": "paanpole"
+    },
+    {
+      "recipeId": "green_moong_curry"
+    },
+    {
+      "recipeId": "shrimp_curry"
+    },
+    {
+      "recipeId": "green_moong_curry"
+    }
+  ]
+}

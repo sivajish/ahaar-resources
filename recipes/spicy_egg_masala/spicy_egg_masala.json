@@ -1,0 +1,141 @@
+﻿{
+    "recipeId":  "spicy_egg_masala",
+    "recipeName": "Spicy Egg Masala",
+    "recipeSmallImageUrl": "recipe_small_image.jpg",
+    "recipeLargeImageUrl": "recipe_big_image.jpg",
+    "recipeDescriptionLines": [
+        {
+            "recipeDescriptionLine": "Spicy Egg Masala as the name says is a spicy egg recipe which is made with simple ingredients and other spices. The recipe can be made in semi-gravy or dry form as per your choice."
+        },
+        {
+            "recipeDescriptionLine": "Eggs are boiled first and added to the gravy mix. Ginger and garlic enhances the flavor."
+        }
+    ],
+    "preface":  "",
+    "servings": "2",
+    "prepTime": "5 mins",
+    "cookTime": "25-30 mins",
+    "ingredients":  [
+        {
+            "ingredientTitle": "",
+            "ingredientList": [
+                {
+                    "ingredientName":  "Eggs",
+                    "measurementQuantity": "4"
+                },
+                {
+                    "ingredientName":  "Onion",
+                    "measurementQuantity": "1/2 thin sliced"
+                },
+                {
+                    "ingredientName":  "Ginger",
+                    "measurementQuantity": "1 inch"
+                },
+                {
+                    "ingredientName":  "Garlic",
+                    "measurementQuantity": "2-3 cloves"
+                },
+                {
+                    "ingredientName":  "Curry Leaves",
+                    "measurementQuantity": "5-6"
+                },
+                {
+                    "ingredientName":  "Turmeric Powder",
+                    "measurementQuantity": "1/8 tsp"
+                },
+                {
+                    "ingredientName":  "Red Chilly Powder",
+                    "measurementQuantity": "1/2 tsp"
+                },
+                {
+                    "ingredientName":  "Coriander powder",
+                    "measurementQuantity": "3/4 tsp"
+                },
+                {
+                    "ingredientName":  "Cumin Powder",
+                    "measurementQuantity": "1/2 tsp"
+                },
+                {
+                    "ingredientName":  "Garam Masala",
+                    "measurementQuantity": "1/4 tsp"
+                },
+                {
+                    "ingredientName":  "Tomato",
+                    "measurementQuantity": "1, pureed"
+                },
+                {
+                    "ingredientName":  "Salt",
+                    "measurementQuantity": "To taste"
+                },
+                {
+                    "ingredientName":  "Water",
+                    "measurementQuantity": "100 ml"
+                },
+                {
+                    "ingredientName":  "Oil",
+                    "measurementQuantity": "1 tbsp"
+                },
+                {
+                    "ingredientName":  "Coriander Leaves",
+                    "measurementQuantity": "For Garnish"
+                }
+            ]
+        }        
+    ],
+    "cookingProcedures": [
+        {
+            "procedureName": "",
+            "procedureSteps": [
+                {
+                    "stepNo":  "1",
+                    "stepDescription": "Boil eggs for 12-15 mins. Peel off the shell once cooled.",
+                    "stepImages": []
+                },
+                {
+                    "stepNo":  "2",
+                    "stepDescription": "In the meanwhile, heat oil in a wok, add onions and fry until it changes color. Crush ginger and garlic together and add to onions along with curry leaves. Fry for 1 min.",
+                    "stepImages": [
+                        {                    
+                            "ImageUrl": "step_2_1.jpg",
+                            "ImageAltText": ""
+                        },
+                        {                    
+                            "ImageUrl": "step_2_2.jpg",
+                            "ImageAltText": ""
+                        }
+                    ]
+                },
+                {
+                    "stepNo":  "3",
+                    "stepDescription": "Add all dry spices, cook for a minute. Now add tomato puree and salt and fry till oil starts separating. Add water, once it  comes to boil, add boiled eggs. Reduce the flame to low and simmer for 5 mins. Garnish with coriander leaves",
+                    "stepImages": [
+                        {                    
+                            "ImageUrl": "step_3_1.jpg",
+                            "ImageAltText": ""
+                        },
+                        {                    
+                            "ImageUrl": "step_3_2.jpg",
+                            "ImageAltText": ""
+                        },
+                        {                    
+                            "ImageUrl": "step_3_3.jpg",
+                            "ImageAltText": ""
+                        },
+                        {                    
+                            "ImageUrl": "step_3_4.jpg",
+                            "ImageAltText": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "tips": [
+        {
+            "tipDesc": "Freshly crushed ginger garlic releases more flavor than ginger garlic paste."
+        },
+        {
+            "tipDesc": "Add more water to make the dish in gravy form."
+        }
+    ]
+}

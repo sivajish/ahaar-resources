@@ -1,0 +1,111 @@
+{
+  "recipeId": "nariyal_ke_laddo",
+  "recipeName": "Nariyal ke Laddu",
+  "recipeSmallImageUrl": "recipe_small_image.JPG",
+  "recipeLargeImageUrl": "recipe_big_image.JPG",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Nariyal ke laddo or sweet coconut balls is a famous sweet from Konkan. It is made with jaggery and freshly grated coconut. Mostly these laddos are mistaken with the white ones but jaggery does all the trick in this recipe. It is an easy dessert to make and is made during all special occasions."
+    }
+  ],
+  "preface": "My Grandmother always made these laddu's whenever we visited her during our summer holidays. No-one ever made such tasty laddus. It was so magical.",
+  "servings": "25 laddos",
+  "prepTime": "10 mins",
+  "cookTime": "45 mins approx",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "",
+      "ingredientList": [
+        {
+          "ingredientName": "Coconut",
+          "measurementQuantity": "1,freshly grated"
+        },
+        {
+          "ingredientName": "Jaggery",
+          "measurementQuantity": "1 cup powdered"
+        },
+        {
+          "ingredientName": "Cardamom Powder",
+          "measurementQuantity": "2. powdered"
+        },
+        {
+          "ingredientName": "Dry Fruits (optional)",
+          "measurementQuantity": "1/4 cup, roasted"
+        },
+        {
+          "ingredientName": "Ghee",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Water",
+          "measurementQuantity": "1/2 cup"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "",
+      "procedureSteps": [
+        {
+          "stepDescription": "Freshly grate the coconut. Keep it aside.",
+          "stepImages": []
+        },
+        {
+          "stepDescription": "Grate jaggery and mix it with coconut. Add water, mix well and keep it aside for 30 mins.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_1.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "On a medium low flame, start heating the coconut jaggery mix in a kadai \\ wok. Keep stirring every 1 min, otherwise jaggery will stick to bottom. Keep stirring until all water content from coconut and jaggery is disappeared. This will take approx 30 mins. The mix will start changing its color from off-white to brown. Do not leave the wok unattended.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "If you are using fry fruits, slightly roast in ghee for 1 min.Add it to mixture along with cardamom powder.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_4_1.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Coat your palm with ghee, to avoid stickiness. Take a small amount of mix and start making balls.. Making small or medium size laddu's is your choice.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_5_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_5_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "tipDesc": "The color of your laddo's depends on the jaggery, darker the jaggery, darker will be the color."
+    }
+  ]
+}

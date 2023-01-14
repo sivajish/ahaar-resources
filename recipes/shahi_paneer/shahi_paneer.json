@@ -1,0 +1,194 @@
+{
+  "recipeId": "shahi_paneer",
+  "recipeName": "Shahi Paneer",
+  "recipeSmallImageUrl": "recipe_small_image.JPG",
+  "recipeLargeImageUrl": "recipe_big_image.JPG",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Shahi Paneer is a thick paneer gravy made with onion, tomatoes and cream. The word 'Shahi' means Royal and 'Paneer' is an unaged, non-melting cheese also known as curd cheese made by curdling heated milk with lemon juice. "
+    },
+    {
+      "recipeDescriptionLine": "Paneer is a good source of calcium which helps in maintaining strong bones and teeth. It contains calcium along with vitamin D which prevents osteoporosis. "
+    },
+    {
+      "recipeDescriptionLine": "It is best enjoyed hot with both rotis and rice."
+    }
+  ],
+  "preface": "",
+  "servings": "4",
+  "prepTime": "10 mins",
+  "cookTime": "45 mins",
+  "publishDate": "2015-10-07T02:42:36.307Z",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "",
+      "ingredientList": [
+        {
+          "ingredientName": "Paneer (Curd Cheese)",
+          "measurementQuantity": "200 g"
+        },
+        {
+          "ingredientName": "Ginger (Adrak)",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Garlic (Lehsun)",
+          "measurementQuantity": "4 cloves, chopped"
+        },
+        {
+          "ingredientName": "Onion",
+          "measurementQuantity": "1 medium size, chopped"
+        },
+        {
+          "ingredientName": "Turmeric (Haldi)",
+          "measurementQuantity": "1 tsp"
+        },
+        {
+          "ingredientName": "Red Chilli Powder",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Garam Masala",
+          "measurementQuantity": "1/2 tbsp"
+        },
+        {
+          "ingredientName": "Cashews (Kaaju)",
+          "measurementQuantity": "1/2 cup"
+        },
+        {
+          "ingredientName": "Tomatoes",
+          "measurementQuantity": "2 small, chopped"
+        },
+        {
+          "ingredientName": "Milk",
+          "measurementQuantity": "1 cup"
+        },
+        {
+          "ingredientName": "Kasoori Methi (Dried Fenugreek leaves)",
+          "measurementQuantity": "2 tbsp"
+        },
+        {
+          "ingredientName": "Oil",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Butter",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "As per taste"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "",
+      "procedureSteps": [
+        {
+          "stepDescription": "Cut paneer into desired shape. In a pan / wok, heat 1/2 tbsp oil. Shallow fry paneer pieces till golden brown.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "In the same pan, heat remaining oil and butter. Fry ginger and garlic for a minute. Add onions and fry till golden brown.",
+          "stepImages": [
+			{
+              "ImageUrl": "step_2_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_3.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_4.JPG",
+              "ImageAltText": ""
+            }
+		  ]
+        },
+        {
+          "stepDescription": "Add turmeric, red chilli powder, garam masala powder and fry for a minute on low flame. Then add cashews and fry for a minute.",
+          "stepImages": [
+			{
+              "ImageUrl": "step_3_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_3.JPG",
+              "ImageAltText": ""
+            }
+		  ]
+        },
+        {
+          "stepDescription": "Add tomatoes and cook till it becomes soft. Once done, switch off the stove. Once the mixture cools down, grind to make a fine paste.",
+          "stepImages": [
+			{
+              "ImageUrl": "step_4_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_3.JPG",
+              "ImageAltText": ""
+            }
+		  ]
+        },
+        {
+          "stepDescription": "On a medium flame, add milk to the ground mixture then add water for desired consistency. Once it comes to boil, reduce the flame and then add paneer and fenugreek leaves. Cook for 5 more mins. ",
+          "stepImages": [
+			{
+              "ImageUrl": "step_5_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_5_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_5_3.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_5_4.JPG",
+              "ImageAltText": ""
+            }
+		  ]
+        }
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "tipDesc": "You can add 1 tbsp cream instead of milk to add texture and sweetness."
+    },
+    {
+      "tipDesc": "Making fresh paneer is easy. Boil 3 cups of milk and then add 2 tbsp lemon juice. Milk will start to curdle, else add some more lemon juice. Keep stirring the milk during this step so the milk does not stick to bottom. Once entire milk has curdled, immediately drain the milk in muslin or cheese cloth. The drained portion collected is Paneer. Wait till the water is drained completely. Take a plate and put the muslin cloth with curdled milk. On top of it, place a heavy plate. and let it sit for 45 mins. Remove the Paneer from cloth and it is ready to use in your dish."
+    }
+  ]
+}

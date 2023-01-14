@@ -1,0 +1,129 @@
+{
+  "recipeId": "onion_chutney",
+  "recipeName": "Onion Chutney",
+  "recipeSmallImageUrl": "recipe_small_image.jpg",
+  "recipeLargeImageUrl": "recipe_big_image.jpg",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Onion Chutney or relish is a simple dish mainly served alongside dosa and idli also known as Indian pancakes. Onion is the main ingredient for this dish and tamarind is added for tangy flavor."
+    },
+    {
+      "recipeDescriptionLine": "The texture of chutney can vary from coarse to fine or. Some chutneys also have a long shelf life. The onion chutney can be stored for upto 4 days in refrigerator."
+    }
+  ],
+  "preface": "",
+  "servings": "4-6",
+  "prepTime": "10 mins",
+  "cookTime": "20 mins",
+  "publishDate": "2014-11-17T04:21:03.258Z",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "",
+      "ingredientList": [
+        {
+          "ingredientName": "Onions",
+          "measurementQuantity": "1, large"
+        },
+        {
+          "ingredientName": "Garlic",
+          "measurementQuantity": "8 pods"
+        },
+        {
+          "ingredientName": "Chana daal (Bengal Gram)",
+          "measurementQuantity": "2 tbsp"
+        },
+        {
+          "ingredientName": "Red chilly powder",
+          "measurementQuantity": "1/2 tbsp"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "as per taste"
+        },
+        {
+          "ingredientName": "Oil",
+          "measurementQuantity": "2 tbsp"
+        },
+        {
+          "ingredientName": "Mustard seeds",
+          "measurementQuantity": "1 tsp"
+        },
+        {
+          "ingredientName": "Curry Leaves",
+          "measurementQuantity": "6"
+        },
+        {
+          "ingredientName": "Tamarind",
+          "measurementQuantity": "2 tbsp"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "",
+      "procedureSteps": [
+        {
+          "stepDescription": "Soak tamarind in water for 30 mins then extract the juice and keep it aside.",
+          "stepImages": [
+			{
+              "ImageUrl": "step_1_1.jpg",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_2.jpg",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_3.jpg",
+              "ImageAltText": ""
+            }
+		  ]
+        },
+        {
+          "stepDescription": "Fry chana dal in oil for a minute followed by onions and garlic. Fry till onions are brown in color then add red chilly powder and switch of the stove immediately. This will remove the raw smell without burning it.",
+          "stepImages": [
+			{
+              "ImageUrl": "step_2_1.jpg",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_2.jpg",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_3.jpg",
+              "ImageAltText": ""
+            }
+		  ]
+        },
+        {
+          "stepDescription": "Once the mixture is cooled down, add tamarind juice and grind to a smooth paste, add additional water if required. Give a tempering of mustard seeds and curry leaves. The chutney can be stored in refrigerator for upto 4 days.",
+          "stepImages": [
+			{
+              "ImageUrl": "step_3_1.jpg",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_2.jpg",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_3.jpg",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_4.jpg",
+              "ImageAltText": ""
+            }
+		  ]
+        }
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "tipDesc": "The red color of chutney depends on the type of chilly powder used. If you want to use whole red chillies, roast it along with chana dal."
+    }]
+}

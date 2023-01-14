@@ -1,0 +1,185 @@
+{
+  "recipeId": "palak_paneer",
+  "recipeName": "Palak Paneer",
+  "recipeSmallImageUrl": "recipe_small_image.jpg",
+  "recipeLargeImageUrl": "recipe_big_image.jpg",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Palak Paneer is a thick curry consisting of spinach in puree form and paneer. It is a famous dish from Punjab that tastes best with Basmati Rice, Roti or Naan."
+    },
+    {
+      "recipeDescriptionLine": "It is a very simple recipe and nutritional as well.  Spinach is a good source of Vitamin A, C, E, K, B6, Calcium, Iron along with other nutrients. And Paneer is a great source of Calcium."
+    }
+  ],
+  "preface": "",
+  "servings": "6",
+  "prepTime": "15 mins",
+  "cookTime": "45 mins",
+  "publishDate": "2017-07-19T21:09:19.172Z",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "",
+      "ingredientList": [
+        {
+          "ingredientName": "Spinach",
+          "measurementQuantity": "2 bunch, washed thoroughly"
+        },
+        {
+          "ingredientName": "Tomatoes",
+          "measurementQuantity": "3"
+        },
+        {
+          "ingredientName": "Paneer",
+          "measurementQuantity": "200 g, fresh or frozen"
+        },
+        {
+          "ingredientName": "Cumin Seeds",
+          "measurementQuantity": "1 tsp"
+        },
+        {
+          "ingredientName": "Green chilies:",
+          "measurementQuantity": "3, finely chopped"
+        },
+        {
+          "ingredientName": "Onion",
+          "measurementQuantity": "1 big, finely chopped"
+        },
+        {
+          "ingredientName": "Ginger garlic paste",
+          "measurementQuantity": "2 tsp"
+        },
+        {
+          "ingredientName": "Red Chilly powder",
+          "measurementQuantity": "1 tsp"
+        },
+        {
+          "ingredientName": "Coriander powder",
+          "measurementQuantity": "2 tsp"
+        },
+        {
+          "ingredientName": "Garam Masala",
+          "measurementQuantity": "1 tsp"
+        },
+        {
+          "ingredientName": "Oil",
+          "measurementQuantity": "2 tbsp"
+        },
+        {
+          "ingredientName": "Ghee",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "As per taste"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "",
+      "procedureSteps": [
+        {
+          "stepDescription": "Blanch spinach for 5 minutes. Once it cools down, grind it to a fine paste. Do not throw the water.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_1.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Boil tomatoes for 7-10 mins. You will see the skin will start coming out. Puree it once it cools down.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Cut paneer into desired shapes and sizes. In a pan heat 1 tbsp of oil then sauté paneer until the color changes to brown. Once done, remove paneer and keep it aside.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "In the same pan, add 1 more tbsp of oil. Add cumin seeds and allow it to splutter. Then add green chillies saute for a minute followed by onions. When the onionturns brown add ginger garlic paste and fry till the raw smell fades ( about 2 minutes).",
+          "stepImages": [
+            {
+              "ImageUrl": "step_4_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_3.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_4.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Add coriander and red chilly powder, fry for 5 mins. Add tomato puree and fry till the oil separates. ",
+          "stepImages": [
+            {
+              "ImageUrl": "step_5_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_5_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_5_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Add pureed spinach and bring to boil. Add garam masala and let it simmer on low flame for 5-7 minutes. Then add paneer and cook for 5 mins. Serve hot.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_6_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_6_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_6_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": [
+	{
+      "tipDesc": "If you are using, frozen paneer, defrost it before cutting. Frozen paneer are hard and while cutting few portions go for waste."
+    },
+	{
+      "tipDesc": "Adding lemon juice at the end will make the color of the dish more appealing and the green color would retain for a long time."
+    }
+	],
+  "relatedRecipes": []
+}

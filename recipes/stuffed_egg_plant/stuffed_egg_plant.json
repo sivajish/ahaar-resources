@@ -1,0 +1,98 @@
+﻿{
+    "recipeId":  "stuffed_egg_plant",
+    "recipeName": "Bharwa Baingan",
+    "recipeSmallImageUrl": "recipe_small_image.jpg",
+    "recipeLargeImageUrl": "recipe_big_image.jpg",
+    "recipeDescriptionLines": [
+        {
+            "recipeDescriptionLine": "Bharwa Baingan or Stuffed Egg Plant is a tangy dish made with masala stuffed in eggplant. The dish can be made in various ways and can be a dry or a gravy dish. The recipe varies from state to state. This is a simple dry dish and is served with dal and rice."
+        },
+        {
+            "recipeDescriptionLine": "Eggplants are rich in fibre, vitamins, minerals and rich in antioxidants."
+        }
+    ],
+    "preface":  "",
+    "servings": "2",
+    "prepTime": "5 mins",
+    "cookTime": "20 mins",
+    "ingredients":  [
+        {
+            "ingredientTitle": "",
+            "ingredientList": [
+                {
+                    "ingredientName":  "Baby eggplant (Baingan)",
+                    "measurementQuantity": "6"
+                },
+                {
+                    "ingredientName":  "Onion seeds (Kalonji)",
+                    "measurementQuantity": "1/4 tbsp"
+                },
+                {
+                    "ingredientName":  "Onions",
+                    "measurementQuantity": "1, cut lengthwise"
+                },
+                {
+                    "ingredientName":  "Salt",
+                    "measurementQuantity": "1 tbsp"
+                },
+                {
+                    "ingredientName":  "Turmeric Powder (Haldi)",
+                    "measurementQuantity": "1/2 tbsp"
+                },
+                {
+                    "ingredientName":  "Red Chilly Powder",
+                    "measurementQuantity": "1 tbsp"
+                },
+                {
+                    "ingredientName":  "Coriander (Dhaniya powder)",
+                    "measurementQuantity": "1 tbsp"
+                },
+                {
+                    "ingredientName":  "Cumin (Jeera powder)",
+                    "measurementQuantity": "1 tbsp"
+                },
+                {
+                    "ingredientName":  "Dry Mango (Amchur powder)",
+                    "measurementQuantity": "1 tbsp"
+                },
+                {
+                    "ingredientName":  "Oil",
+                    "measurementQuantity": "1 tbsp"
+                }
+            ]
+        }        
+    ],
+    "cookingProcedures": [
+        {
+            "procedureName": "",
+            "procedureSteps": [
+                {
+                    "stepNo":  "1",
+                    "stepDescription": "Wash eggplant thoroughly, stalk trimmed and partially slit into quarters.",
+                    "stepImages": [
+                        {                    
+                            "ImageUrl": "step_1_1.jpg",
+                            "ImageAltText": ""
+                        }
+                    ]
+                },
+                {
+                    "stepNo":  "2",
+                    "stepDescription": "Mix all dry powders and keep it aside. Now fill this masala in eggplant, some masala may be left behind that can come for use later.",
+                    "stepImages": []
+                },
+                {
+                    "stepNo":  "3",
+                    "stepDescription": "In a kadai, heat oil and add kalonji, once it sizzle, add onions, fry till it is partially cooked. Now add stuffed baigan remaining masala if available, mix well. Cover and cook on medium heat till it is cooked, onions will get cooked in the spices. Keep mixing in between to avoid burning. This will take 10-15 mins. Enjoy hot with rice and dal.",
+                    "stepImages": [
+                        {                    
+                            "ImageUrl": "step_3_1.jpg",
+                            "ImageAltText": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "tips": []
+}
