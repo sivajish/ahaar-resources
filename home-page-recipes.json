@@ -1,0 +1,49 @@
+﻿{
+    "recipes": [
+			{
+				"recipeId":  "shepu_bhaji",
+				"recipeName": "Shepu Bhaji",
+				"recipeCategories":  [ "Vegetarian", "Dry" ],
+				"recipeMainIngredients": [ "Shepu", "Dill Leaves" ],
+				"recipeShortDescription": "Shepu bhaji is a simply stir fried dish that is made from fresh dill leaves. It is a common dish in all Maharashtrians home.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+			},
+			{
+				"recipeId":  "onion_chutney",
+				"recipeName": "Onion Chutney",
+				"recipeCategories":  [ "Vegetarian", "Chutney" ],
+				"recipeMainIngredients": [ "Onion", "Garlic" ],
+				"recipeShortDescription": "Onion Chutney or relish is a simple dish mainly served alongside dosa and idli also known as Indian pancakes. Onion is the main ingredient for this dish and tamarind is added for tangy flavor.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+			},
+			{
+				"recipeId":  "dahi_vada",
+				"recipeName": "Dahi Vada",
+				"recipeCategories": [ "Vegetarian", "Snack" ],
+				"recipeMainIngredients": [ "Yogurt", "Dahi", "Urad Dal"],
+				"recipeShortDescription": "Dahi vada is known as dahi bhalla is a popular Indian snack and is prepared by soaking vada in thick yogurt.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+			},
+			{
+				"recipeId":  "pav_bhaji",
+				"recipeName": "Pav Bhaji",
+				"recipeCategories": [ "Vegetarian", "Snack" ],
+				"recipeMainIngredients": [ "Potato", "Aloo", "Pav", "Bread"],
+				"recipeShortDescription": "Pav Bhaji, a lip smacking fast food that originated from Maharashtra is now one of the favorite snack all over the world.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+			},
+			{
+				"recipeId":  "palak_paneer",
+				"recipeName": "Palak Paneer",
+				"recipeCategories": [ "Vegetarian", "Dry" ],
+				"recipeMainIngredients": [ "Palak", "Spinach", "Paneer"],
+				"recipeShortDescription": "Palak Paneer is a thick curry consisting of spinach in puree form and paneer. It is a famous dish from Punjab that tastes best with Basmati Rice and Roti or Naan.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+			}
+        ]
+}

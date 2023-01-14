@@ -1,0 +1,185 @@
+{
+  "recipeId": "instant_sooji_dhokla",
+  "recipeName": "Instant Sooji Dhokla",
+  "recipeSmallImageUrl": "recipe_small_image.JPG",
+  "recipeLargeImageUrl": "recipe_big_image.JPG",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Instant Sooji Dhokla is a famous vegetarian dish from Gujarat that is made with Semolina (Sooji) with a minimum wait time. It is a good appetizer and can be enjoyed anytime."
+    },
+    {
+      "recipeDescriptionLine": " Traditional method is widely made with fermented batter of rice and chickpeas. It is eaten for breakfast, as a main course and snacks.However, other parts of India prefer it to eat as snack."
+    },
+    {
+      "recipeDescriptionLine": "The rice and chickpeas are soaked overnight and then grounded into a smooth paste and then fermented for couple of hours. The batter is later steamed until fluffy and best served with chutneys."
+    }
+  ],
+  "preface": "",
+  "servings": "4",
+  "prepTime": "10 mins",
+  "cookTime": "20 mins",
+  "publishDate": "2014-11-03T07:17:49.911Z",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "For Dhokla",
+      "ingredientList": [
+        {
+          "ingredientName": "Semolina Flour (Sooji)",
+          "measurementQuantity": "1 cup"
+        },
+        {
+          "ingredientName": "Oil",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Carom seeds (Ajwain)",
+          "measurementQuantity": "1 tsp"
+        },
+        {
+          "ingredientName": "Curd (Dahi)",
+          "measurementQuantity": "1 cup well beaten"
+        },
+        {
+          "ingredientName": "Green Chillies",
+          "measurementQuantity": "3, finely chopped"
+        },
+        {
+          "ingredientName": "Ginger",
+          "measurementQuantity": "2 tbsp"
+        },
+        {
+          "ingredientName": "Turmeric",
+          "measurementQuantity": "1 tsp"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "1/2 tbsp"
+        },
+        {
+          "ingredientName": "Water",
+          "measurementQuantity": "1/2 cup"
+        },
+        {
+          "ingredientName": "ENO fruit Salt",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Fresh Coriander Leaves (Dhaniya)",
+          "measurementQuantity": "For Garnish"
+        }
+      ]
+    },
+    {
+      "ingredientTitle": "For Seasoning",
+      "ingredientList": [
+        {
+          "ingredientName": "Oil",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Sesame seeds (Til)",
+          "measurementQuantity": "1 tsp"
+        },
+        {
+          "ingredientName": "Mustard seeds (Sarson)",
+          "measurementQuantity": "1 tsp"
+        },
+        {
+          "ingredientName": "Green Chillies",
+          "measurementQuantity": "4 cut lengthwise"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "",
+      "procedureSteps": [
+        {
+          "stepDescription": "Rub Ajwain between your palms and add to Sooji. This releases additional flavor. Add oil to sooji and mix all 3 ingredients well. In a separate bowl, mix well yoghurt, green chillies, turmeric and ginger. Add it to Sooji and mix it well. Add water and make a smooth batter. Cover and let it rest for 20 min.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "If you have a dhokla cooker, fill it with 1 and 1/2 inches of water and let it come to boil. Lightly grease the dhokla pan with cooking oil. If you don't have one (like me), use a pressure cooker without whistle and use any pan or baking pan that can fit into the pressure cooker and lightly grease it.",
+          "stepImages": []
+        },
+        {
+          "stepDescription": "After 20 mins, add ENO fruit salt to the sooji batter and mix it thoroughly, you will see batter will foam up. Pour this mixture to dhokla plates immediately. Cover the cooker and let it steam for 20-25 mins. The dhokla will double the size. Insert a fork or toothpick at the center. If it comes out clean, dhokla is cooked, otherwise steam it for few more minutes. Switch off the stove and let it cool down.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_3.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_4.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "With a spoon or knife, gently remove dhokla from the pan through edges. Flip the pan carefully on a plate. Dhokla will come out smoothly.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_4_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "For seasoning, heat oil in pan, add mustard seeds and allow it to pop up. Then add sesame seeds and fry for 15 secs. Then add green chillies and fry till 20 secs. Pour the seasoning over dhokla and sprinkle fresh coriander leaves. Cut into square or desired shapes. Enjoy with chutney.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_5_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_5_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_5_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "tipDesc": "Sesame seeds may pop up at you while seasoning, so cover the pan after putting sesame seeds in the oil."
+    },
+    {
+      "tipDesc": "Use any baking pan or aluminium or steel pan for pouring dhokla mix if using pressure cooker. Remember not to use whistle while steaming."
+    },
+    {
+      "tipDesc": "Make sure the to mix the batter well after adding ENO, any lump will leave red color patches on dhokla."
+    }
+  ]
+}

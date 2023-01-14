@@ -1,0 +1,162 @@
+{
+  "recipeId": "green_moong_curry",
+  "recipeName": "Green Moong Curry",
+  "recipeSmallImageUrl": "recipe_small_image.JPG",
+  "recipeLargeImageUrl": "recipe_big_image.JPG",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Green Moong Curry is,a medium spicy Konkani Indian dish cooked with coconut and indian spices and is a famous dish for marriage functions and other occasions."
+    },
+    {
+      "recipeDescriptionLine": "Moong bean is first soaked in water overnight and dried for couple of hours for sprouts to come out before consuming. Uncooked bean sprouts can be eaten as it is."
+    },
+    {
+      "recipeDescriptionLine": "Like other pulses, Moong bean is also considered healthy for diabetes due to its low glycemic index, is a good source of protein and lower in cholesterol. It is a good source of vitamin C and also contain many nutrients such as folic acid (folate), iron, zinc, potassium  and is low in sodium."
+    }
+  ],
+  "preface": "It has always been my favorite since my childhood days. My mom used to serve this with dosa and rice and sometimes with chapatis. I have tried my best to replicate my mom's recipe, but as it it said, no one can replace mom's food.",
+  "servings": "4",
+  "prepTime": "15 mins",
+  "cookTime": "40 mins",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "",
+      "ingredientList": [
+        {
+          "ingredientName": "Moong bean",
+          "measurementQuantity": "1 cup soaked in water for 8 hours"
+        },
+        {
+          "ingredientName": "Tomato",
+          "measurementQuantity": "1 medium size finely chopped"
+        },
+        {
+          "ingredientName": "Turmeric powder",
+          "measurementQuantity": "1/4 tbsp"
+        },
+        {
+          "ingredientName": "Mustard seeds",
+          "measurementQuantity": "1/2 tbsp"
+        },
+        {
+          "ingredientName": "Onions",
+          "measurementQuantity": "1 medium size cut length wise"
+        },
+        {
+          "ingredientName": "Garlic",
+          "measurementQuantity": "8 cloves, chopped"
+        },
+        {
+          "ingredientName": "Coconut",
+          "measurementQuantity": "1/2 cup grated (fresh or frozen)"
+        },
+        {
+          "ingredientName": "Coriander powder",
+          "measurementQuantity": "2 tbsp, roasted"
+        },
+        {
+          "ingredientName": "Red Chill powder",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Garam Masala",
+          "measurementQuantity": "1/2 tbsp"
+        },
+        {
+          "ingredientName": "Curry Leaves",
+          "measurementQuantity": "8-10"
+        },
+        {
+          "ingredientName": "Lemon Juice",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Coriander leaves (optional)",
+          "measurementQuantity": "For garnishing"
+        },
+        {
+          "ingredientName": "Oil",
+          "measurementQuantity": "2 tbsp"
+        },
+        {
+          "ingredientName": "Water",
+          "measurementQuantity": "3 cups"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "As per taste"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "",
+      "procedureSteps": [
+        {
+          "stepDescription": "Soak mung bean for minimum 8 hrs. Then drain the excess water and store in a damp cloth for 12 hrs, beans will be sprouted.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_1.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Pressure cook moong sprout with tomatoes and turmeric powder till 1 whistle. Let it cool down.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_1.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Meanwhile, dry roast mustard and grind it. In the same pan, heat oil and add onions and fry till golden brown. Add garlic, saute for 3 mins till the raw small goes away. Reduce the flame to low, add grated coconut and roast along with onions till golden brown. Freshly grated coconut is preferred as it brings great taste to the curry. Add coriander powder, fry for 2-3 minutes on medium flame. Let it cool down.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Grind the above ingredients along with red chilly and garam masala powder and mustard and fenugreek seeds powder, till it forms a fine paste. Add this paste to cooked sprouts.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_4_1.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Add salt, curry leaves and remaining water and boil on medium heat for 5-7 mins. Add coriander leaves. Serve hot with rice or dosa. Sprinkle little lemon juice to enhance flavor.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_5_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_5_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": []
+}

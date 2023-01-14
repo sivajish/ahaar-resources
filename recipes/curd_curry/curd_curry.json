@@ -1,0 +1,139 @@
+{
+  "recipeId": "curd_curry",
+  "recipeName": "Curd Curry",
+  "recipeSmallImageUrl": "recipe_small_image.jpg",
+  "recipeLargeImageUrl": "recipe_big_image.jpg",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Curd Curry or Moru curry known by different names in various states in a blend of yoghurt with seasoned spices. It is one of the quickest recipe that you can make  when you are running late or when you want to soothe your stomach."
+    },
+    {
+      "recipeDescriptionLine": "Curd giving a  well known as Yoghurt around the world has many health benefits. It helps in improving and strengthening digestive system and immune system respectively. It is rich in calcium and is helps in keeping the teeth and bones strong. It also helps in absorbing the nutrients from other food stuffs. Curd is also helps those suffering from high blood pressure by minimizing it."
+    }
+  ],
+  "preface": "Below is an interesting recipe to make curry from curd. This is best when eaten fresh with rice. This is also one of the quickest curry that I ever made.",
+  "servings": "2",
+  "prepTime": "5 mins",
+  "cookTime": "10 mins",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "",
+      "ingredientList": [
+        {
+          "ingredientName": "Curd (Dahi)",
+          "measurementQuantity": "1 cup well beaten"
+        },
+        {
+          "ingredientName": "Oil",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Mustard seeds",
+          "measurementQuantity": "1/8 tbsp"
+        },
+        {
+          "ingredientName": "Onions",
+          "measurementQuantity": "2 tbsp, finely chopped"
+        },
+        {
+          "ingredientName": "Red Chilli",
+          "measurementQuantity": "2 broken into half"
+        },
+        {
+          "ingredientName": "Garlic",
+          "measurementQuantity": "3-4 cloves"
+        },
+        {
+          "ingredientName": "Ginger",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Curry Leaves",
+          "measurementQuantity": "5-6 leaves"
+        },
+        {
+          "ingredientName": "Methi (Fenugreek) Powder:",
+          "measurementQuantity": "1 tsp"
+        },
+        {
+          "ingredientName": "Cumin Powder",
+          "measurementQuantity": "2 tsp, roasted"
+        },
+        {
+          "ingredientName": "Turmeric Powder",
+          "measurementQuantity": "1 tsp"
+        },
+        {
+          "ingredientName": "Water",
+          "measurementQuantity": "1 cup"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "As per taste"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "",
+      "procedureSteps": [
+        {
+          "stepDescription": "Beat the curd well to remove lumps and keep it aside. Also, crush garlic and ginger using mortar and pestle.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_1.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Heat the oil in pan. Put mustard seeds. Once it splutters, add onions, red chillies, garlic, ginger and curry leaves. Fry for 1 minute.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_1.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Add dry powders, methi, cumin and turmeric powder. Fry for 30 secs.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_1.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Reduce the heat. Add the beaten yoghurt. Mix it for 1 minute till curd blends well with the spices.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_4_1.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Add water and keep stirring under low heat. Water quantity can be used based on the consistency you require.",
+          "stepImages": []
+        },
+        {
+          "stepDescription": "Once it just begins to boil, remove from the stove. Add salt. Serve hot with rice.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_6_1.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "tipDesc": "Remove the curry from stove as soon as it comes to boil. Overheating will cause curd to curdle. Use more of curd if you want thick consistency."
+    }
+  ]
+}

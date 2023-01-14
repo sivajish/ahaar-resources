@@ -1,0 +1,150 @@
+{
+  "recipeId": "dal_tadka",
+  "recipeName": "Dal Tadka",
+  "recipeSmallImageUrl": "recipe_small_image.JPG",
+  "recipeLargeImageUrl": "recipe_big_image.JPG",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Dal Tadka is a thick stew prepared with different varieties. It is generally pressure cooked with very basic ingredients and seasoned to enhance flavor. It is widely eaten along with rice and rotis."
+    },
+    {
+      "recipeDescriptionLine": "Dal is god source of dietary fiber, protein and low in sodium and cholestrol. Studies have also shown that consuming pulses can result in more stable blood glucose levels after meals due to its lower glycemic index."
+    },
+    {
+      "recipeDescriptionLine": "Dal tadka is basically prepare with Toor dal also known as Arhar, Tuvar and Split Pigeon Peas."
+    }
+  ],
+  "preface": "",
+  "servings": "4-6",
+  "prepTime": "15 mins",
+  "cookTime": "30 mins",
+  "publishDate": "2015-06-30T02:10:55.134Z",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "",
+      "ingredientList": [
+        {
+          "ingredientName": "Toor Daal",
+          "measurementQuantity": "1 cup"
+        },
+        {
+          "ingredientName": "Garlic",
+          "measurementQuantity": "8 pods finely chopped"
+        },
+        {
+          "ingredientName": "Green Chillies",
+          "measurementQuantity": "3,finely chopped"
+        },
+        {
+          "ingredientName": "Onion",
+          "measurementQuantity": "1/4, finely chopped"
+        },
+        {
+          "ingredientName": "Turmeric",
+          "measurementQuantity": "1/2 tsp"
+        },
+        {
+          "ingredientName": "Water",
+          "measurementQuantity": "4 cups"
+        },
+        {
+          "ingredientName": "Oil",
+          "measurementQuantity": "2 tbsp"
+        },
+        {
+          "ingredientName": "Cumin Seeds",
+          "measurementQuantity": "1 tsp"
+        },
+        {
+          "ingredientName": "Curry Leaves",
+          "measurementQuantity": "8"
+        },
+        {
+          "ingredientName": "Dry Red Chillies (optonal)",
+          "measurementQuantity": "4, split into halves"
+        },
+        {
+          "ingredientName": "Tomato",
+          "measurementQuantity": "2, finely chopped"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "As per taste"
+        },
+        {
+          "ingredientName": "Fresh Coriander Leaves",
+          "measurementQuantity": "For garnish"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "",
+      "procedureSteps": [
+        {
+          "stepDescription": "Wash daal thoroughly until water runs clear. In pressure cooker, add daal, water, turmeric, garlic, onions, green chillies.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_1.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Pressure cook till 3 whistles. Wait for it to cool down, Open the lid carefully. Beat the cooked lentils with any whisk until soft. You can add more water as per your choice of thickness.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Now for tadka, heat oil in a pan. Add cumin seeds.Once it splutters, add dry red chilies and curry leaves. Fry for 5 seconds. Be careful at this step as curry leaves splutter oil in all direction, always cover the pan immediately for safety. Add tomato and 2 pinch of turmeric powder, Fry till it becomes a paste.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_3.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_4.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Add this tadka to daal along with salt. Mix well and bring it to boil.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_4_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Garnish with coriander leaves.",
+          "stepImages": []
+        }
+      ]
+    }
+  ],
+  "tips": []
+}

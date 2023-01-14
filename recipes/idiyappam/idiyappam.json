@@ -1,0 +1,136 @@
+{
+  "recipeId": "idiyappam",
+  "recipeName": "Idiyappam",
+  "recipeSmallImageUrl": "recipe_small_image.JPG",
+  "recipeLargeImageUrl": "recipe_big_image.JPG",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Idiyappam, also known as Noolputtu are steamed rice noodles, which is one of the popular breakfast dish in Kerala. It is typically made from rice floor and is served with variety of side dishes like potato curry, egg curry, coconut milk etc"
+    },
+    {
+      "recipeDescriptionLine": "It is simple and quick recipe that can be made within 30 mins. Generally a steamer is used for the preparation, but if you don't have one, you can also use a pressure cooker without the whistle."
+    }
+  ],
+  "preface": "",
+  "servings": "8 Idiyappams",
+  "prepTime": "10 mins",
+  "cookTime": "10 mins",
+  "publishDate": "2015-04-18T02:17:40.786Z",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "",
+      "ingredientList": [
+        {
+          "ingredientName": "Rice Flour",
+          "measurementQuantity": "1 cup"
+        },
+        {
+          "ingredientName": "Water",
+          "measurementQuantity": "1.5 cup"
+        },
+        {
+          "ingredientName": "Oil",
+          "measurementQuantity": "2 tbsp"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "1 tsp"
+        },
+        {
+          "ingredientName": "Coconut",
+          "measurementQuantity": "1/2 cup, grated"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "",
+      "procedureSteps": [
+        {
+          "stepDescription": "To prepare dough boil water with 1 tbsp oil and salt for 5 minutes. This will take 5 mins. Meanwhile, in the steamer or pressure cooker, for steaming, add water and allow it to boil. I have added a lemon slice in the aluminium pressure cooker to avoid discoloration of vessel. You can add few drops of lemon juice instead.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "I used store bought rice flour for the dish. You can even roast it if you don't like the raw smell of the flour. Once water is boiled, keep it aside. Using a spatula or wooden spoon mix small quantity of water with the flour. Knead it till u get a soft dough. Always add water slowly to avoid making the dough too mushy.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "If you are making Idiyappam in large quantity, cover the unused dough with damp cloth, so that moisture is not lost. Put a portion of dough in the Idiyappam press. Grease it with oil. Also, grease the idli plates with oil and put little grated coconut.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_3.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_4.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_5.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_6.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Squeeze the batter on the idli plates. Put the plate in the pressure cooker or steamer and make sure the water is boiling. Cover and steam it for 8-10 mins and then remove and store it in a covered box to avoid Idiyappam from drying.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_4_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "It can be served with variety of side dishes like potato curry, egg curry and sweetened coconut milk. I generally enjoy it with coconut milk. Traditionally, coconut milk is extracted from fresh grated coconut. This grated coconut is then grounded into a paste and the milk is extracted using a filter. This step is repeated again by adding some water to extract more milk. Sugar is added to the extracted milk to get a sweet taste. I go for the easier option which is nothing but store bought coconut milk. Also go for original coconut milk and not the sugar free or fat free ones to get better taste.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_5_1.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": []
+}

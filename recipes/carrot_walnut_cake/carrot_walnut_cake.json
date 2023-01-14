@@ -1,0 +1,155 @@
+{
+  "recipeId": "carrot_walnut_cake",
+  "recipeName": "Carrot Walnut Cake",
+  "recipeSmallImageUrl": "recipe_small_image.JPG",
+  "recipeLargeImageUrl": "recipe_big_image.JPG",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Carrot Walnut Cake is a simple version of white cake with an addition of walnuts and carrots."
+    },
+    {
+      "recipeDescriptionLine": "Cakes are typically a baked dessert made with flour, sugar, eggs, oil or butter. Nowadays, cakes are must for all birthday celebrations. Today numerous flavors are available in market. Modern equipment has made it simple to make one even for a non-baker."
+    }
+  ],
+  "preface": "",
+  "servings": "12",
+  "prepTime": "25 mins",
+  "cookTime": "1 hr",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "",
+      "ingredientList": [
+        {
+          "ingredientName": "All purpose Flour (Maida)",
+          "measurementQuantity": "2-1/4 cups"
+        },
+        {
+          "ingredientName": "Baking Powder",
+          "measurementQuantity": "2 tsp"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "A pinch"
+        },
+        {
+          "ingredientName": "Butter",
+          "measurementQuantity": "3/4 cup softened"
+        },
+        {
+          "ingredientName": "White Sugar",
+          "measurementQuantity": "1 cup"
+        },
+        {
+          "ingredientName": "Eggs",
+          "measurementQuantity": "3"
+        },
+        {
+          "ingredientName": "Orange Juice",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Walnuts chopped",
+          "measurementQuantity": "1 cup"
+        },
+        {
+          "ingredientName": "Raisins",
+          "measurementQuantity": "1/2 cup"
+        },
+        {
+          "ingredientName": "Carrots grated",
+          "measurementQuantity": "2 cups"
+        },
+        {
+          "ingredientName": "Vanilla Extract",
+          "measurementQuantity": "1 tbsp"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "",
+      "procedureSteps": [
+        {
+          "stepDescription": "Firstly we will do the initial preparation. Remove the carrot skin and grate it. Keep it aside. Chop the walnuts. If you prefer walnuts in powdered form, you can even crush walnut using mortal and pestle or grinder. Keep it aside. Lastly, Preheat oven to 350 degrees F (175 degrees C).",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "In a medium bowl, put butter and sugar. Mix it well with spoon. Add eggs and mix well with hand mixer, then add orange juice, vanilla extract, mix it well.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Add flour, baking powder, mix well with hand  mixer until you get smooth batter. Finally, add walnuts, raisins and carrots and mix it with spoon.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_3.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_4.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Take the baking pan, Lightly grease the pan withe oil or butter. with 1/2 tbsp of all purpose of flour, apply a thin layer on the pan. Pour the batter into the prepared pan.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_4_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Bake for 45 mins in the preheated oven, use a fork or toothpick and insert right at the middle of the cake to check if it comes out clean. If not, let it bake for some more time. Keep a watch on the time to avoid burning. Take the cake out of the oven and let it cool for 20 mins. Invert it into a plate. Enjoy as it is or with your favorite frosting.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_5_1.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": []
+}

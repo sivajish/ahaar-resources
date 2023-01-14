@@ -1,0 +1,706 @@
+﻿	{
+		"recipes": [         
+				{
+				"recipeId":  "shepu_bhaji",
+				"recipeName": "Shepu Bhaji",
+				"recipeCategories":  [ "Vegetarian", "Dry" ],
+				"recipeMainIngredients": [ "Shepu", "Dill Leaves" ],
+				"recipeShortDescription": "Shepu bhaji is a simply stir fried dish that is made from fresh dill leaves. It is a common dish in all Maharashtrians home.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "onion_chutney",
+				"recipeName": "Onion Chutney",
+				"recipeCategories":  [ "Vegetarian", "Chutney" ],
+				"recipeMainIngredients": [ "Onion", "Garlic" ],
+				"recipeShortDescription": "Onion Chutney or relish is a simple dish mainly served alongside dosa and idli also known as Indian pancakes. Onion is the main ingredient for this dish and tamarind is added for tangy flavor.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "dahi_vada",
+				"recipeName": "Dahi Vada",
+				"recipeCategories": [ "Vegetarian", "Snack" ],
+				"recipeMainIngredients": [ "Yogurt", "Dahi", "Curd", "Urad Dal"],
+				"recipeShortDescription": "Dahi vada is known as dahi bhalla is a popular Indian snack and is prepared by soaking vada in thick yogurt.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "pav_bhaji",
+				"recipeName": "Pav Bhaji",
+				"recipeCategories": [ "Vegetarian", "Snack" ],
+				"recipeMainIngredients": [ "Potato", "Aloo", "Pav", "Bread"],
+				"recipeShortDescription": "Pav Bhaji, a lip smacking fast food that originated from Maharashtra is now one of the favorite snack all over the world.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "palak_paneer",
+				"recipeName": "Palak Paneer",
+				"recipeCategories": [ "Vegetarian", "Curry" ],
+				"recipeMainIngredients": [ "Palak", "Spinach", "Paneer"],
+				"recipeShortDescription": "Palak Paneer is a thick curry consisting of spinach in puree form and paneer. It is a famous dish from Punjab that tastes best with Basmati Rice and Roti or Naan.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "seviyan_kheer",
+				"recipeName": "Seviyan Kheer",
+				"recipeCategories": [ "Dessert" ],
+				"recipeMainIngredients": [ "Vermicelli", "Seviyan", "Milk"],
+				"recipeShortDescription": "Seviyan Kheer or vermicelli pudding is a simple and well known Indian dessert in all households. It is the easiest dessert that one can make. The main ingredient is vermicelli and milk.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "coconut_sambhar",
+				"recipeName": "Coconut Sambhar",
+				"recipeCategories": [ "Vegetarian","Curry" ],
+				"recipeMainIngredients": [ "Lentils", "Coconut"],
+				"recipeShortDescription": "Coconut sambhar is a famous vegetable stew from Kerala made with pigeon peas (toor dal) and coconut. Coconut is an essential ingredient found in every household and is an integral part for all the dishes.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "sugarcane_juice",
+				"recipeName": "Sugarcane Juice",
+				"recipeCategories": [ "Vegetarian","Beverage" ],
+				"recipeMainIngredients": [ "Sugarcane"],
+				"recipeShortDescription": "Sugarcane juice widely known as ganne ka ras is one of the best juice that can quench your thirst during summer. A chilled juice is the best energy drink for hot weather which is loaded with potassium, carbohydrate, iron, protein and other essential nutrients.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "puran_poli",
+				"recipeName": "Puran Poli",
+				"recipeCategories": [ "Vegetarian","Roti", "Breakfast" ],
+				"recipeMainIngredients": [ "Lentils","Chana Dal","Jaggery"],
+				"recipeShortDescription": "Puran Poli is a traditional Maharashtrian sweet dish made during festive occasions. Puran is the stuffing and poli is the outer covering which is nothing but roti.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "spinach_shrimp_curry",
+				"recipeName": "Spinach Shrimp Curry",
+				"recipeCategories": [ "Non-Vegetarian","Curry","Seafood" ],
+				"recipeMainIngredients": [ "Shrimp","Prawns","Spinach","Coconut"],
+				"recipeShortDescription": "Spinach shrimp curry or palak jhinga curry in one of the delicacy from Konkan. Malabar Spinach or better known as Vaala Bhaji is used in the original recipe.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "baingan_bharta",
+				"recipeName": "Baingan Bharta",
+				"recipeCategories": [ "Vegetarian","Dry" ],
+				"recipeMainIngredients": [ "Eggplant"],
+				"recipeShortDescription": "Baingan Bharta or mashed eggplant is a popular dish in Indian Cuisine. In this dish, Eggplant is first grilled on direct fire or stove top or oven for a smokey flavor. It is then mixed with spices and served with rotis or rice.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "tawa_fry_fish",
+				"recipeName": "Tawa Fry Fish",
+				"recipeCategories": [ "Non-Vegetarian","Appetizer","Dry","Seafood" ],
+				"recipeMainIngredients": [ "Fish"],
+				"recipeShortDescription": "Tawa fish fry is a staple food in North Karnataka (Karwar). As the name says, fish is cooked on a pan with less oil than deep frying it.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "dry_fruits_laddu",
+				"recipeName": "Dry Fruits Laddu",
+				"recipeCategories": [ "Dessert" ],
+				"recipeMainIngredients": [ "Nuts","Cashews","Almonds","Walnuts","Pistachios","Dates"],
+				"recipeShortDescription": "Dry fruit nut laddu is a quick and easy sweet dish that is power packed with nutrients. One can chose any kind of dry fruits to make laddos. This dish requires little jaggery for sweetness.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "malai_kofta",
+				"recipeName": "Malai Kofta",
+				"recipeCategories": [ "Vegetarian", "Curry" ],
+				"recipeMainIngredients": [ "Potato", "Cashews", "Cream"],
+				"recipeShortDescription": "Malai Kofta is a popular north indian dish that belongs to Mughlai Cuisine. Malai means cream and Kofta means fried  dumplings.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "honey_glazed_chicken",
+				"recipeName": "Honey Glazed Chicken",
+				"recipeCategories": [ "Non-Vegetarian", "Appetizer", "Dry","Chicken"],
+				"recipeMainIngredients": [ "Chicken", "Honey"],
+				"recipeShortDescription": "Honey Glazed Chicken is a delightful dish that is a perfect blend of savory and sweetness.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "methi_thepla",
+				"recipeName": "Methi Thepla",
+				"recipeCategories": [ "Vegetarian", "Breakfast", "Snack", "Roti" ],
+				"recipeMainIngredients": [ "Methi", "Fenugreek", "Besan", "Gram Flour" ],
+				"recipeShortDescription": "Methi Thepla is an Indian flat bread made with gram flour, wheat flour and spices. It is a famous dish from Gujarat.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "shahi_paneer",
+				"recipeName": "Shahi Paneer",
+				"recipeCategories": [ "Vegetarian", "Curry" ],
+				"recipeMainIngredients": ["Paneer"],
+				"recipeShortDescription": "Shahi Paneer is a thick paneer gravy made with onion, tomatoes and cream. The word 'Shahi' means Royal and 'Paneer' is an unaged,non melting cheese also known as curd cheese made by curdling heated milk with lemon juice.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "methi_dal",
+				"recipeName": "Methi Dal",
+				"recipeCategories": [ "Vegetarian", "Curry" ],
+				"recipeMainIngredients": [ "Methi", "Fenugreek", "Masoor Dal", "Lentil" ],
+				"recipeShortDescription": "Methi Dal is a simple dish made with fresh or frozen methi leaves cooked along with lentils. Fenugreek leaves, being enriched with minerals like Calcium, Potassium, Iron and also is a good source of dietary fiber and vitamin C.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "shahi_tukda",
+				"recipeName": "Shahi Tukda",
+				"recipeCategories": [ "Dessert" ],
+				"recipeMainIngredients": [ "Bread", "Milk" ],
+				"recipeShortDescription": "Shahi Tukda, also known as Double Ka Meetha, is a famous simple and rich dessert from Hyderabad. It is made by frying bread sweetened with sugar syrup and soaked in rabri.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "alani_chicken_soup",
+				"recipeName": "Alani Chicken Soup",
+				"recipeCategories": [ "Non-Vegetarian","Soup","Chicken" ],
+				"recipeMainIngredients": [ "Chicken" ],
+				"recipeShortDescription": "Alani Chicken soup is a quick and easy stew made with very few spices. Alani soup is supposed to be mildly spicy.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},	
+				{
+				"recipeId":  "sweet_potato_cutlet",
+				"recipeName": "Sweet Potato Cutlet",
+				"recipeCategories": [ "Vegetarian", "Appetizer", "Snack" ],
+				"recipeMainIngredients": [ "Sweet Potato","Cheese" ],
+				"recipeShortDescription": "Sweet Potato Cutlet is an easy and healthier appetizer that can be enjoyed anytime of the day. Sweet potato is rich in Vitamin B6, Vitamin C and D. It also contains iron and is a good source of magnesium and potassium.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "idiyappam",
+				"recipeName": "Idiyappam",
+				"recipeCategories": [ "Vegetarian", "Breakfast" ],
+				"recipeMainIngredients": [ "Rice Flour" ],
+				"recipeShortDescription": "Idiyappam, also known as Noolputtu are steamed rice noodles, which is one of the popular breakfast dish in Kerala. It is typically made from rice floor and is served with variety of side dishes like potato curry, egg curry, coconut milk etc.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "paanpole",
+				"recipeName": "Paanpole",
+				"recipeCategories": [ "Vegetarian", "Breakfast" ],
+				"recipeMainIngredients": [ "Rice" ],
+				"recipeShortDescription": "Paanpole is a famous well known breakfast item among every household in Konkanis. It is a simple paper thin rice crepe that does not require any fermentation.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "palak_fry",
+				"recipeName": "Palak Fry",
+				"recipeCategories": [ "Vegetarian", "Dry" ],
+				"recipeMainIngredients": [ "Spinach", "Palak" ],
+				"recipeShortDescription": "Palak Fry is a quick and simple stir fried recipe made with nutritional spinach. This dish is best enjoyed with rotis and chapathis.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "masala_khichdi",
+				"recipeName": "Masala Khichdi",
+				"recipeCategories": [ "Vegetarian", "Rice" ],
+				"recipeMainIngredients": [ "Rice", "Lentils","Yellow Moong Dal" ],
+				"recipeShortDescription": "Khichdi commonly considered as comfort food is made from rice and lentils. It is a one pot meal in which the nutritional value is increased by adding variety of vegetables.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "pepper_scallops",
+				"recipeName": "Pepper Scallops",
+				"recipeCategories": [ "Non-Vegetarian","Appetizer","Seafood" ],
+				"recipeMainIngredients": [ "Scallop" ],
+				"recipeShortDescription": "Pepper Scallops is a simple and quick pan roasted dish where scallops are pan seared separately and served with capsicum / bell peppers. This is more of an International delicacy made with an Indian twist.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "gajar_ka_halwa",
+				"recipeName": "Gajar Ka Halwa",
+				"recipeCategories": [ "Dessert" ],
+				"recipeMainIngredients": [ "Carrot", "Gajar", "Milk" ],
+				"recipeShortDescription": "Gajar ka Halwa or Carrot Halwa is a famous Indian dessert made by grated carrots cooked in milk and sugar. It is a nutritional dessert and has a low fat content.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "bhindi_fry",
+				"recipeName": "Bhindi Fry",
+				"recipeCategories": [ "Vegetarian", "Dry" ],
+				"recipeMainIngredients": [ "Okra", "Bhindi" ],
+				"recipeShortDescription": "Bhindi Fry is an easy tangy recipe that is stir fried with basic spices and served as a side dish with rotis or rice. Bhindi is also known as also known as Okra or Ladyfinger.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "sambhar",
+				"recipeName": "Sambhar - Lentil Tamarind Curry",
+				"recipeCategories": [ "Vegetarian", "Curry" ],
+				"recipeMainIngredients": [ "Lentils" ],
+				"recipeShortDescription": "Sambhar is a vegetable stew made with pigeon peas (toor dal) and tamarind. It a very famous dish in Southern India and each state has its different ways to prepare it. Sambhar is best enjoyed with steamed rice, idli and dosa.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "stuffed_egg_plant",
+				"recipeName": "Bharwa Baingan",
+				"recipeCategories": [ "Vegetarian", "Dry" ],
+				"recipeMainIngredients": [ "Baingan", "Eggplant"],
+				"recipeShortDescription": "Bharwa Baingan or Stuffed Egg Plant is a tangy dish made with masala stuffed in eggplant. The dish can be made in various ways and can be a dry or a gravy dish. This is a simple dry dish and is served with dal and rice.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "beetroot_sabzi",
+				"recipeName": "Beetroot Sabzi",
+				"recipeCategories": [ "Vegetarian", "Dry" ],
+				"recipeMainIngredients": [ "Beetroot" ],
+				"recipeShortDescription": "Beetroot Sabzi also known as Chukandar ki sabzi is a simple nutritional dish made with grated beetroot and basic spices. Beets have Zero trans fat and saturated fat. Beets are high in carbs providing instant energy.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+					"recipeId":  "dahi_kebab",
+					"recipeName": "Dahi Kebab",
+					"recipeCategories": [ "Vegetarian", "Appetizer", "Snack" ],
+					"recipeMainIngredients": [ "Curd", "Yogurt", "Dahi" ],
+					"recipeShortDescription": "Dahi Kebab or Curd Cutlet is a vegetarian kebab made with Hung Curd. The taste of the kebabs are tangy because of the key ingredient Hung Curd. Hung Curd is prepared simply by removing excess water by hanging Curd in muslin or cotton cloth.",
+					"recipeSmallImageUrl": "recipe_small_image.jpg",
+					"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "coconut_curd_curry",
+				"recipeName": "Coconut Curd Curry",
+				"recipeCategories":  [ "Vegetarian", "Curry" ],
+				"recipeMainIngredients": [ "Coconut", "Curd", "Pumpkin", "Kaddu", "Bottle Gourd", "Lauki" ],
+				"recipeShortDescription": "Coconut Curd Curry  also known as Moru Curry is a dish from Kerala which as the name says is a Curd (Yogurt) based curry that is cooked with Bottle gourd and Pumpkin.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "vada_pav",
+				"recipeName": "Vada Pav",
+				"recipeCategories":  [ "Vegetarian", "Appetizer", "Snack" ],
+				"recipeMainIngredients": [ "Aloo", "Potato" ],
+				"recipeShortDescription": "Vada Pav is a vegetarian fast food famous in Maharashtra. It is sold on streets and is one of the cheapest snacks available. It consists of mainly Batata vada (Potato patties) sandwiched between Pav (unsweetened bun or bread).",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "tomato_tamarind_chutney",
+				"recipeName": "Tomato Tamarind Chutney",
+				"recipeCategories": [ "Vegetarian", "Chutney" ],
+				"recipeMainIngredients": [ "Tamarind", "Imli", "Tomato"],
+				"recipeShortDescription": "Tomato Tamarind Chutney, also called as Pachadi is a tangy and spicy tomato based chutney is a part of Andhra Cuisine.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "cabbage_paratha",
+				"recipeName": "Cabbage Paratha",
+				"recipeCategories": [ "Vegetarian", "Breakfast", "Roti" ],
+				"recipeMainIngredients": [ "Cabbage", "Wheat Flour" ],
+				"recipeShortDescription": "Paratha originated in Punjab is a popular flatbread which is stuffed with boiled or cooked vegetables like potatoes, methi (fenugreek), cauliflower, radish, paneer etc. Cabbage is a great source of Vitamin C and fiber.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "ragda_patties",
+				"recipeName": "Ragda Patties",
+				"recipeCategories": [ "Vegetarian", "Appetizer", "Snack" ],
+				"recipeMainIngredients": [ "Potato", "Aloo", "Matar", "Yellow Peas" ],
+				"recipeShortDescription": "Ragda Patties is a famous fast food from Mumbai and is nowadays available in most parts of India. As the name says, it is a combination of two parts, Ragda and Patties.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "shakkarpaare",
+				"recipeName": "Shakkar Paare",
+				"recipeCategories": [ "Vegetarian", "Snack" ],
+				"recipeMainIngredients": [ "Sooji", "Semolina", "Maida", "All Purpose Flour", "Ghee" ],
+				"recipeShortDescription": "Shakkarpaare also known as Shankarpali is a crispy and crunchy snack made during festivals especially during Diwali. It has a mild sweetness to it and just melts in your mouth . This snack can be enjoyed with tea.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "kanda_pohe",
+				"recipeName": "Kanda Pohe",
+				"recipeCategories": [ "Vegetarian", "Snack","Breakfast" ],
+				"recipeMainIngredients": [ "Flattened Rice", "Poha" ],
+				"recipeShortDescription": "Pohe or Pohay is a famous snack and a breakfast dish prepared widely across Maharashtra and some northern India. It is made with flattened rice seasoned along with chillies and onions.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "instant_sooji_dhokla",
+				"recipeName": "Instant Sooji Dhoklaa",
+				"recipeCategories": [ "Vegetarian", "Snack", "Breakfast" ],
+				"recipeMainIngredients": [ "Sooji", "Semolina", "Curd", "Dahi", "Yogurt" ],
+				"recipeShortDescription": "Instant Sooji Dhokla is a famous vegetarian dish from Gujarat that is made with Semolina (Sooji) with a minimum wait time. It is a good appetizer and can be enjoyed anytime.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "sweet_tamarind_chutney",
+				"recipeName": "Sweet Tamarind Chutney",
+				"recipeCategories": [ "Vegetarian", "Chutney" ],
+				"recipeMainIngredients": [ "Tamarind", "Imli", "Jaggery" ],
+				"recipeShortDescription": "Sweet Tamarind Chutney is a side dip that is widely consumed with Indian appetizers like samosas, vada and chaat like bhel puri, ragda pattice and other chaats. It is sweet and tangy in taste.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "green_moong_curry",
+				"recipeName": "Green Moong Curry",
+				"recipeCategories":  [ "Vegetarian", "Curry" ],
+				"recipeMainIngredients": [ "Lentils","Moong bean", "Coconut" ],
+				"recipeShortDescription": "Green Moong Curry is,a medium spicy Konkani Indian dish cooked with coconut and indian spices and is a famous dish for marriage functions and other occasions. Moong bean is first soaked in water overnight and dried for couple of hours for the sprouts.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg" 
+				},
+				{
+				"recipeId":  "aloo_chat",
+				"recipeName": "Aloo Chat",
+				"recipeCategories": [ "Vegetarian", "Appetizer", "Snack" ],
+				"recipeMainIngredients": [ "Aloo", "Potato"],
+				"recipeShortDescription": "Aloo Chat is a famous street food and is very famous in north India. It is made with fried potatoes mixed with variety of chutneys and enjoyed best with hot tea. For healthier option, instead of fried potatoes, boiled ones are used.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "curd_curry",
+				"recipeName": "Curd Curry",
+				"recipeCategories":  [ "Vegetarian", "Curry" ],
+				"recipeMainIngredients": [ "Curd","Yogurt","Dahi" ],
+				"recipeShortDescription": "Curd Curry or Moru curry known by different names in various states in a blend of yogurt with seasoned spices. It is one of the quickest recipe that you can make  when you are running late or when you want to soothe your stomach. This is best when eaten fresh with rice.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg" 
+				},
+				{
+				"recipeId":  "malai_methi_matar",
+				"recipeName": "Malai Methi Matar",
+				"recipeCategories":  [ "Vegetarian", "Curry" ],
+				"recipeMainIngredients": [ "Methi", "Fenugreek", "Peas", "Matar" ],
+				"recipeShortDescription": "Methi Malai Matar is a combination of green peas and fresh fenugreek leaves cooked with indian spices and fresh cream. The creamy texture goes exceptionally well with roti, parathas, chapati.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg" 
+				},
+				{
+				"recipeId":  "paneer_bhurji",
+				"recipeName": "Paneer Bhurji",
+				"recipeCategories":  [ "Vegetarian", "Dry" ],
+				"recipeMainIngredients": [ "Paneer", "Cheese" ],
+				"recipeShortDescription": "Paneer Bhurji is a popular breakfast recipe in north India made with crumbled cheese. It is a famous dish among vegetarians. Its is best enjoyed hot and served with Pav/rotis/phulkas.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg" 
+				},
+				{
+				"recipeId":  "veg_thoran",
+				"recipeName": "Veg Thoran",
+				"recipeCategories":  [ "Vegetarian", "Dry" ],
+				"recipeMainIngredients": [ "Coconut", "Nariyal", "Cabbage"],
+				"recipeShortDescription": "Thoran is a popular dry dish from Kerala which is made of finely chopped vegetables eaten along with steamed rice. It can be made with any finely chopped vegetables like bittergourd, green or yardlong beans, carrot, cabbage, unripe jackfruit.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg" 
+				},
+				{
+				"recipeId":  "tomato_rasam",
+				"recipeName": "Tomato Rasam",
+				"recipeCategories":  [ "Vegetarian", "Curry" ],
+				"recipeMainIngredients": [ "Tomato", "Lentils" ],
+				"recipeShortDescription": "Rasam is a spicy broth made with lentils or tomatoes or combination of both, tamarind and is one of the main course in south indian meal best accompanied with rice. This tomato rasam is a quick and easy recipe provides relief to your sore throat as well.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg" 
+				},
+				{
+				"recipeId":  "peanut_chutney",
+				"recipeName": "Groundnut or Peanut Chutney",
+				"recipeCategories": [ "Vegetarian", "Chutney" ],
+				"recipeMainIngredients": [ "Groundnut", "Peanut" ],
+				"recipeShortDescription": "Groundnut or Peanut Chutney is a simple and quick chutney that is made with roasted peanuts and served as a condiment and best enjoyed with idlis, dosas, utthappam, vadas.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "methi_pulao",
+				"recipeName": "Methi Pulao",
+				"recipeCategories": [ "Vegetarian", "Rice" ],
+				"recipeMainIngredients": [ "Basmati Rice", "Methi", "Fenugreek" ],
+				"recipeShortDescription": "Methi Pulao is a vegetarian dish and a healthier option due to its rich calcium content. Fenugreek leaves has so much of other nutritional value, being enriched with minerals like  Potassium, Iron and also is a good source of dietary fiber and vitamin C.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "yellow_moong_dal",
+				"recipeName": "Yellow Moong Dal",
+				"recipeCategories": [ "Vegetarian", "Curry" ],
+				"recipeMainIngredients": [ "Lentils","Moong Dal" ],
+				"recipeShortDescription": "Moong Daal also known as Pesarapappu in Andhra is a simple daal served with white rice. Dal is god source of dietary fiber, protein and low in sodium and cholesterol. Studies have also shown that consuming pulses can result in more stable blood glucose levels after meals due to its lower glycemic index.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "dal_tadka",
+				"recipeName": "Dal Tadka",
+				"recipeCategories": [ "Vegetarian", "Curry" ],
+				"recipeMainIngredients": [ "Lentils","Toor Dal" ],
+				"recipeShortDescription": "Dal Tadka is a thick stew prepared with different varieties. It is generally pressure cooked with very basic ingredients and seasoned to enhance flavor. It is widely eaten along with rice and rotis.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "sabudana_vada",
+				"recipeName": "Sabudana Vada",
+				"recipeCategories": [ "Vegetarian", "Appetizer", "Snack" ],
+				"recipeMainIngredients": [ "Sabudana", "Sago", "Potato" ],
+				"recipeShortDescription": "Sabudana Vada also known as Sago vada is a famous snack from Maharashtra. It is a deep fried snack that is served along with chutney and hot tea. It tastes best eaten fresh and hot.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "tea",
+				"recipeName": "Tea",
+				"recipeCategories": [ "Vegetarian", "Beverage" ],
+				"recipeMainIngredients": [ "Tea Powder", "Milk" ],
+				"recipeShortDescription": "Chai or Tea, a famous Indian hot beverage is a blend of black tea and Indian herbs and spices and is made by brewing it together. It is essential part of breakfasts and evening snack time. But, people love to drink it anywhere anytime.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "sesame_fish_curry",
+				"recipeName": "Sesame Fish Curry",
+				"recipeCategories":  [ "Non-Vegetarian", "Curry", "Seafood" ],
+				"recipeMainIngredients": [ "Fish", "Sesame", "Til", "Coconut" ],
+				"recipeShortDescription": "Sesame Fish Curry is a spicy dish from Andhra Cuisine, where fish is cooked in sesame coconut ground paste.It is best enjoyed hot with white rice.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "chicken_liver_fry",
+				"recipeName": "Chicken Liver Fry",
+				"recipeCategories":  [ "Non-Vegetarian", "Dry","Chicken"],
+				"recipeMainIngredients": [ "Liver", "Kaleja" ],
+				"recipeShortDescription": "Chicken Liver Fry is a a delicious Indian recipe served as a side dish along with rice. Liver has an essential nutrient vitamin B12 which supports the production of red blood cell and prevent pernicious anaemia.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "spicy_egg_masala",
+				"recipeName": "Spicy Egg Masala",
+				"recipeCategories": [ "Non-Vegetarian", "Dry" ],
+				"recipeMainIngredients": [ "Egg" ],
+				"recipeShortDescription": "Spicy Egg Masala as the name says is a spicy egg recipe which is made with simple ingredients and other spices. The recipe can be made in semi-gravy or dry form as per your choice.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "achari_chicken",
+				"recipeName": "Achari Chicken",
+				"recipeCategories":  [ "Non-Vegetarian","Curry", "Chicken" ],
+				"recipeMainIngredients": [ "Chicken" ],
+				"recipeShortDescription": "Achari Chicken is a tangy and spicy form of chicken which is made in semi-dry or curry form. It is simple dish that is made with basic ingredients and for a twist lemon juice is added to make the dish tangy.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "chicken_dum_biryani",
+				"recipeName": "Chicken Dum Biryani",
+				"recipeCategories":  [ "Non-Vegetarian", "Chicken", "Rice" ],
+				"recipeMainIngredients": [ "Chicken", "Rice" ],
+				"recipeShortDescription": "Dum Biryani is a blend of rice and vegetables or meat or egg where rice is cooked separately from the thick curry(meat or vegetables). The curry and rice is then layered and cooked together giving a distinct flavor to rice and the curry.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "instant_egg_dosa",
+				"recipeName": "Instant Egg Dosa",
+				"recipeCategories":  [ "Non-Vegetarian", "Breakfast","Snack"],
+				"recipeMainIngredients": [ "Besan", "Gram Flour", "Rice Flour", "Sooji", "Semolina", "Egg" ],
+				"recipeShortDescription": "Dosa or Dosai, is a fermented crepe or pancake made from rice and black lentils soaked overnight. It is a popular breakfast and snack in southern India and is eaten with Sambhar or Chutney.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "shrimp_curry",
+				"recipeName": "Shrimp Curry",
+				"recipeCategories":  [ "Non-Vegetarian", "Seafood" ],
+				"recipeMainIngredients": [ "Shrimp", "Prawns" ],
+				"recipeShortDescription": "Shrimp curry is a quick, simple dish in which prawns are marinated with spices and then cooked with onions and tomatoes.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "mutton_curry",
+				"recipeName": "Mutton - Goat Curry",
+				"recipeCategories": [  "Non-Vegetarian", "Curry" ],
+				"recipeMainIngredients": [ "Mutton", "Goat", "Lamb" ],
+				"recipeShortDescription": "Goat Curry, widely known as Mutton curry in most part of India is a famous red meat cooked in authentic blend of spices. It may vary from mild spicy to very spicy.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "chicken_pickle",
+				"recipeName": "Chicken Pickle",
+				"recipeCategories":  [ "Non-Vegetarian", "Dry","Chicken"],
+				"recipeMainIngredients": [ "Chicken" ],
+				"recipeShortDescription": "Chicken Pickle is a famous Andhra recipe which is a non-vegetarian spicy pickle cooked with Indian spices along with grated onions.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "kerala_fish_curry",
+				"recipeName": "Kerala Fish Curry",
+				"recipeCategories":  [ "Non-Vegetarian", "Curry","Seafood"  ],
+				"recipeMainIngredients": [ "Fish" ],
+				"recipeShortDescription": "Fish Curry also known as Meen Curry in Kerala is common household dish. Though the recipe differs in each home, few of the ingredients remain the same. It is best enjoyed with hot dosa or rice.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "chicken_noodle_soup",
+				"recipeName": "Chicken Noodle Soup",
+				"recipeCategories":  [ "Non-Vegetarian", "Soup","Chicken" ],
+				"recipeMainIngredients": [ "Coconut Milk", "Chicken", "Noodles" ],
+				"recipeShortDescription": "Chicken Noodle Soup is a Thai version of soup which is prepared with chicken and vegetable cooked with ginger garlic and coconut milk is added for little sweetness.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "baked_fish",
+				"recipeName": "Baked Fish",
+				"recipeCategories":  [ "Non-Vegetarian","Appetizer","Dry","Seafood" ],
+				"recipeMainIngredients": [ "Fish","Herbs"  ],
+				"recipeShortDescription": "Baked fish is a healthy way of cooking your favorite fish with fresh or dried herbs. It is cooked in oven and made with minimum use of oil. The type of herbs not only gives a nice aroma to the dish but also has many health benefits.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "kerala_chicken_curry",
+				"recipeName": "Kerala Chicken Curry",
+				"recipeCategories":  [ "Non-Vegetarian","Curry","Chicken"],
+				"recipeMainIngredients": [ "Chicken" ],
+				"recipeShortDescription": "Chicken curry is a chicken stew cooked in tomato and onion based sauce. Various spices are used to enhance the taste. Depending  on the style of preparation, the chicken curry can be made sweet, spicy with different texture.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg" 
+				},
+				{
+				"recipeId":  "rice_pudding",
+				"recipeName": "Chawal ki Kheer - Rice Pudding",
+				"recipeCategories":  [ "Dessert" ],
+				"recipeMainIngredients": [ "Rice", "Milk" ],
+				"recipeShortDescription": "Rice Pudding or Chawal ki Kheer also known as Payasam in South India is a creamy sweet dish made with thickened milk and rice.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "kalakand",
+				"recipeName": "Kalakand",
+				"recipeCategories":  [ "Dessert" ],
+				"recipeMainIngredients": [ "Milk" ],
+				"recipeShortDescription": "Kalakand is one of the very known sweets made in India during festivals and other occasions. It is made from thickened milk and cottage cheese.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "rasmalai",
+				"recipeName": "Rasmalai",
+				"recipeCategories":  [ "Dessert" ],
+				"recipeMainIngredients": [ "Milk" ],
+				"recipeShortDescription": "Rasmalai is a popular sweet originating in Pakistan. The name of the sweet itself has two parts, 'Ras' means juice and 'Malai' means cream and is made from whole milk. The more fat the milk has, more and better will be the sweet.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "uniyappam",
+				"recipeName": "Uniyappam",
+				"recipeCategories":  [ "Dessert" ],
+				"recipeMainIngredients": [ "Rice Flour", "Banana", "Jaggery" ],
+				"recipeShortDescription": "Unniyappam is a famous sweet in Kerala. It is also widely eaten like a snack. May it be any festival, Unniyappam is always find its place among other dishes.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "semolina_mango_cake",
+				"recipeName": "Semolina Mango Cake",
+				"recipeCategories":  [ "Dessert" ],
+				"recipeMainIngredients": [ "Semolina", "Sooji", "Mango" ],
+				"recipeShortDescription": "Semolina Mango Cake is an eggless Indian dessert of modern form. Similar ingredients are used to make mango halwa in traditional way.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "nariyal_ke_laddo",
+				"recipeName": "Nariyal Ke Laddo",
+				"recipeCategories":  [ "Dessert" ],
+				"recipeMainIngredients": [ "Nariyal", "Coconut", "Jaggery" ],
+				"recipeShortDescription": "Nariyal ke laddo or sweet coconut balls is a famous sweet from Konkan. It is made with jaggery and freshly grated coconut.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "carrot_walnut_cake",
+				"recipeName": "Carrot Walnut Cake",
+				"recipeCategories":  [ "Dessert" ],
+				"recipeMainIngredients": [ "All-purpose flour", "Maida", "Carrots", "Walnuts", "Raisins", "Eggs" ],
+				"recipeShortDescription": "Carrot Walnut Cake is a simple version of white cake with an addition of walnuts and carrots.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "jalebi",
+				"recipeName": "Jalebi",
+				"recipeCategories":  [ "Dessert" ],
+				"recipeMainIngredients": [ "All purpose flour", "Maida", "Sugar", "Curd" ],
+				"recipeShortDescription": "Jalebi, a famous sweet dish from India is a deep fried flour batter soaked in sugar syrup. It is best enjoyed when hot. Jalebis are often eaten with milk in northern India.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "green_chutney",
+				"recipeName": "Green Chutney",
+				"recipeCategories":  [ "Vegetarian", "Chutney" ],
+				"recipeMainIngredients": [ "Mint Leaves", "Coriander Leaves" ],
+				"recipeShortDescription": "Green Chutney is a spicy chutney made with mainly coriander and mint leaves. It is mainly used for preparing all types of chat and acts as a spread in many types of sandwiches.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "chicken_kathi_roll",
+				"recipeName": "Chicken Kathi Roll",
+				"recipeCategories":  [ "Non-Vegetarian", "Appetizer", "Snack","Chicken" ],
+				"recipeMainIngredients": [ "Chicken", "Egg"],
+				"recipeShortDescription": "Chicken Kathi Roll is one of the famous street food. It is made with juicy chicken stuffed in paratha coated with egg tossed with onions and chutney.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				},
+				{
+				"recipeId":  "palak_chicken",
+				"recipeName": "Palak Chicken",
+				"recipeCategories": [ "Non-Vegetarian","Curry","Chicken" ],
+				"recipeMainIngredients": [ "Chicken", "Spinach", "Palak"],
+				"recipeShortDescription": "Palak Chicken or Spinach Chicken as the name suggests is a simple and delicious dish made with two main ingredients, spinach and chicken. Chicken in any form can be used for the dish.",
+				"recipeSmallImageUrl": "recipe_small_image.jpg",
+				"recipeLargeImageUrl": "recipe_big_image.jpg"
+				}
+			]
+	}
