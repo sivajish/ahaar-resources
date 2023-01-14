@@ -1,0 +1,104 @@
+{
+  "recipeId": "palak_fry",
+  "recipeName": "Palak Fry",
+  "recipeSmallImageUrl": "recipe_small_image.jpg",
+  "recipeLargeImageUrl": "recipe_big_image.jpg",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Palak Fry is a quick and simple stir fried recipe made with nutritional spinach. This dish is best enjoyed with rotis and chapathis."
+    },
+    {
+      "recipeDescriptionLine": "Spinach is rich vitamin A, B2, B6, C, E, K, Iron, calcium, dietary fiber. It is low in fat and cholesterol."
+    },
+    {
+      "recipeDescriptionLine": "This green leafy vegetable is available throughout the year and is affordable as well. So, make sure to buy some next time you are out to buy groceries."
+    }
+  ],
+  "preface": "",
+  "servings": "2",
+  "prepTime": "10 mins",
+  "cookTime": "25 mins",
+  "publishDate": "2015-03-31T00:08:36.200Z",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "",
+      "ingredientList": [
+        {
+          "ingredientName": "Spinach (Palak)",
+          "measurementQuantity": "2 bunch"
+        },
+        {
+          "ingredientName": "Onion",
+          "measurementQuantity": "1/2 medium sized, finely chopped"
+        },
+        {
+          "ingredientName": "Garlic",
+          "measurementQuantity": "6-8 pods, finely chopped"
+        },
+        {
+          "ingredientName": "Green Chillies",
+          "measurementQuantity": "3, finely chopped"
+        },
+        {
+          "ingredientName": "Tomato",
+          "measurementQuantity": "1 medium size, finely chopped"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "As per taste"
+        },
+        {
+          "ingredientName": "Oil",
+          "measurementQuantity": "2 tbsp, for cooking"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "",
+      "procedureSteps": [
+        {
+          "stepDescription": "Wash spinach well under cold water.Then soak it in water along with 1/2 tbsp of salt for 15 mins. Discard spoiled leaves and finely chop the rest of the leaves and keep it aside.",
+          "stepImages": []
+        },
+        {
+          "stepDescription": "In a kadai / wok, heat oil. Add onions and chillies and fry till onions turns brown. Add garlic, fry for a minute.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_1.jpg",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_2.jpg",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Add finely chopped tomato and fry till it starts leaving oil. Add cut spinach. Cover and cook for 5-7 mins. Spinach will start leaving water. Remove the lid and fry till water is evaporated completely. Add salt as per taste. Enjoy with hot rotis / chapathis.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_1.jpg",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_2.jpg",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_3.jpg",
+              "ImageAltText": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "tipDesc": "You can also add cumin seeds (jeera) before adding onions."
+    }
+  ]
+}

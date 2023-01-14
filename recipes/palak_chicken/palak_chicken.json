@@ -1,0 +1,156 @@
+{
+  "recipeId": "palak_chicken",
+  "recipeName": "Palak Chicken",
+  "recipeSmallImageUrl": "recipe_small_image.jpg",
+  "recipeLargeImageUrl": "recipe_big_image.jpg",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Palak Chicken or Spinach Chicken as the name suggests is a simple and delicious dish made with two main ingredients, spinach and chicken. Chicken in any form can be used for the dish. Boneless chicken breast has been used in this dish."
+    },
+    {
+      "recipeDescriptionLine": "Spinach is rich vitamin A, B2, B6, C, E, K, Iron, calcium, dietary fiber. It is low in fat and cholesterol. Chicken on the other hand is a good source of protein."
+    },
+    {
+      "recipeDescriptionLine": "It is served with roti, naan and rice."
+    }
+  ],
+  "preface": "",
+  "servings": "4",
+  "prepTime": "15 mins",
+  "cookTime": "40 mins",
+  "publishDate": "2016-05-23T22:02:19.485Z",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "",
+      "ingredientList": [
+        {
+          "ingredientName": "Boneless Chicken",
+          "measurementQuantity": "1/2 kg"
+        },
+        {
+          "ingredientName": "Spinach",
+          "measurementQuantity": "6 cups or 1 bunch"
+        },
+        {
+          "ingredientName": "Cumin seeds",
+          "measurementQuantity": "1/2 tbsp"
+        },
+        {
+          "ingredientName": "Mustard seeds",
+          "measurementQuantity": "1/2 tbsp"
+        },
+        {
+          "ingredientName": "Mustard Oil",
+          "measurementQuantity": "4 tbsp"
+        },
+        {
+          "ingredientName": "Garlic",
+          "measurementQuantity": "1/2 tbsp, freshly grated or paste"
+        },
+        {
+          "ingredientName": "Ginger",
+          "measurementQuantity": "1/2 tbsp, freshly grated or paste"
+        },
+        {
+          "ingredientName": "Onions",
+          "measurementQuantity": "1, finely chopped"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Turmeric powder",
+          "measurementQuantity": "1/4 tbsp"
+        },
+        {
+          "ingredientName": "Chilly powder",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Chicken Masala",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Tomatoes",
+          "measurementQuantity": "2, finely chopped"
+        },
+        {
+          "ingredientName": "Kasoori Methi",
+          "measurementQuantity": "1 tbsp"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "",
+      "procedureSteps": [
+        {
+          "stepDescription": "Wash chicken well and cut into desired size. Also finely chop the the spinach. Keep it aside.",
+          "stepImages": []
+        },
+        {
+          "stepDescription": "In a pan, heat mustard oil. Add cumin and mustard seeds and allow it to splutter. Add grated ginger, garlic and green chillies. Saute for a minute.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Add finely chopped onions, cook till they are slightly brown. Add turmeric, chilly powder and chicken masala. Saute for 30 secs. Add finely chopped tomatoes, fry till it starts leaving oil.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Add chicken and salt. Cover and cook for 7-8 mins on a medium flame. Add pureed spinach. Mix it well. Cover and cook on a medium low flame for about 10 mins. Mix kasuri methi and switch off the stove.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_4_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_3.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_4.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "tipDesc": "If using chicken thighs, make few cuts so that masala can penetrate in the chicken."
+    },
+    {
+      "tipDesc": "You can also puree the spinach to have more smooth texture."
+    }
+  ]
+}

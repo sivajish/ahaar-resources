@@ -1,0 +1,165 @@
+{
+  "recipeId": "malai_methi_matar",
+  "recipeName": "Malai Methi Matar",
+  "recipeSmallImageUrl": "recipe_small_image.JPG",
+  "recipeLargeImageUrl": "recipe_big_image.JPG",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Methi Malai Matar is a combination of green peas and fresh fenugreek leaves cooked with indian spices and fresh cream. The creamy texture goes exceptionally well with roti, parathas, chapati."
+    },
+    {
+      "recipeDescriptionLine": "The thickness of the gravy comes from the nuts used like cashews and ground nuts which is later grinded to form a ground paste along with other spices."
+    },
+    {
+      "recipeDescriptionLine": "his dish is very famous in north india. Fenugreek is a good source of Calcium, Iron and Phosphorus."
+    }
+  ],
+  "preface": "",
+  "servings": "4",
+  "prepTime": "20 mins",
+  "cookTime": "30 mins",
+  "publishDate": "2014-11-08T00:05:09.901Z",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "",
+      "ingredientList": [
+        {
+          "ingredientName": "Onions",
+          "measurementQuantity": "1 medium size, chopped"
+        },
+        {
+          "ingredientName": "Green Chillies",
+          "measurementQuantity": "1 chopped"
+        },
+        {
+          "ingredientName": "Garlic",
+          "measurementQuantity": "3 cloves, chopped"
+        },
+        {
+          "ingredientName": "Ginger",
+          "measurementQuantity": "1 inch"
+        },
+        {
+          "ingredientName": "Tomato",
+          "measurementQuantity": "1 large, chopped"
+        },
+        {
+          "ingredientName": "Turmeric powder (Haldi)",
+          "measurementQuantity": "1/2 tsp"
+        },
+        {
+          "ingredientName": "Coriander powder",
+          "measurementQuantity": "1/2 tbsp"
+        },
+        {
+          "ingredientName": "Cashew nuts or Ground nut",
+          "measurementQuantity": "1/2 cup"
+        },
+        {
+          "ingredientName": "Fresh Fenugreek Leaves (Methi)",
+          "measurementQuantity": "1 cup, finely chopped"
+        },
+        {
+          "ingredientName": "Green peas",
+          "measurementQuantity": "3/4 cup"
+        },
+        {
+          "ingredientName": "Cumin seeds",
+          "measurementQuantity": "1/2 tsp"
+        },
+        {
+          "ingredientName": "Curry leaves",
+          "measurementQuantity": "5-6"
+        },
+        {
+          "ingredientName": "Milk",
+          "measurementQuantity": "1/4 cup"
+        },
+        {
+          "ingredientName": "Garam Masala",
+          "measurementQuantity": "1/4 tsp"
+        },
+        {
+          "ingredientName": "Water",
+          "measurementQuantity": "1 cup"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "As per taste"
+        },
+        {
+          "ingredientName": "Oil",
+          "measurementQuantity": "2 tbsp"
+        },
+        {
+          "ingredientName": "Fresh Cream",
+          "measurementQuantity": "1 tbsp"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "",
+      "procedureSteps": [
+        {
+          "stepDescription": "Wash fenugreek leaves well with water, finely chop and keep it aside. Wash peas well and keep it aside.",
+          "stepImages": []
+        },
+        {
+          "stepDescription": "To make ground paste, in a pan / wok, heat oil. Add onions, fry till its slightly brown. Add green chillies, garlic and ginger, sauté for 1 minute. Add tomatoes. Fry till completely cooked. Ad turmeric powder and coriander powder. Fry for 1 minute. Keep it aside for it to cool. In the same pan, without adding additional oil, fry the cashew or ground nuts for a minute or two to remove the raw smell. Grind the above mixture along with nuts to form a smooth paste. add water if required.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "In the same pan, add 1 tbsp oil. Add cumin seeds, let it splutter. Add curry leaves. After 5 seconds, add Methi /  Fenugreek leaves. Sauté for 2 minutes. Then add green peas and fry for 2 minutes. Add the ground paste, fresh cream, mix it well. Cook on medium flame for 2 minutes, stirring frequently.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_3.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_4.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Reduce the flame, add milk, cover and simmer for 8 minutes. Keep stirring in between to prevent burning. Add garam masala and salt, mix it well. Cook it for 1 minute and switch off the stove. Enjoy hot with rotis \\ chapatis \\ phulkas.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_4_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "tipDesc": "If you don't have fresh methi, use frozen one. To enhanced taste, use ghee instead of oil."
+    }
+  ]
+}

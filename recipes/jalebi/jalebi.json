@@ -1,0 +1,260 @@
+{
+  "recipeId": "jalebi",
+  "recipeName": "Jalebi",
+  "recipeSmallImageUrl": "recipe_small_image.jpg",
+  "recipeLargeImageUrl": "recipe_big_image.jpg",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Jalebi, a famous sweet dish from India is a deep fried flour batter soaked in sugar syrup. It is best enjoyed when hot. Jalebis are often eaten with milk in northern India. Below is the traditional way of making one."
+    },
+    {
+      "recipeDescriptionLine": "Dish has some variations in the form of Chhenna Jalebi and Immarti."
+    }
+  ],
+  "preface": "Who does not like Jalebi! This mouth watering dish had been our favorite since childhood. I still remember watching ads on TV  on jalebi and showing our desire to Mom to buy some. This desire has still not reduced which led me to make it at home.  I never knew, it is so easy to make.",
+  "servings": "20 jalebis",
+  "prepTime": "15 mins",
+  "cookTime": "45 mins",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "For Batter",
+      "ingredientList": [
+        {
+          "ingredientName": "All purpose flour (Maida)",
+          "measurementQuantity": "1 cup"
+        },
+        {
+          "ingredientName": "Corn Starch",
+          "measurementQuantity": "1/2 tbsp"
+        },
+        {
+          "ingredientName": "Turmeric powder",
+          "measurementQuantity": "2 pinch"
+        },
+        {
+          "ingredientName": "Curd",
+          "measurementQuantity": "1 cup"
+        },
+        {
+          "ingredientName": "Water",
+          "measurementQuantity": "1/4 cup"
+        },
+        {
+          "ingredientName": "Baking powder",
+          "measurementQuantity": "1 tsp"
+        },
+        {
+          "ingredientName": "Saffron (Kesar)",
+          "measurementQuantity": "8-10 strands, crushed"
+        },
+        {
+          "ingredientName": "Sugar",
+          "measurementQuantity": "1 pinch"
+        },
+        {
+          "ingredientName": "Oil",
+          "measurementQuantity": "2 tsp"
+        }
+      ]
+    },
+    {
+      "ingredientTitle": "For Sugar Syrup",
+      "ingredientList": [
+        {
+          "ingredientName": "Sugar",
+          "measurementQuantity": "1/2 cup"
+        },
+        {
+          "ingredientName": "Water",
+          "measurementQuantity": "1 cup"
+        },
+        {
+          "ingredientName": "Saffron (Kesar)",
+          "measurementQuantity": "7-8 strands, crushed"
+        },
+        {
+          "ingredientName": "Lemon Juice",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Cardamom (Ilaichi)",
+          "measurementQuantity": "2 crushed"
+        }
+      ]
+    },
+    {
+      "ingredientTitle": "",
+      "ingredientList": [
+        {
+          "ingredientName": "Oil",
+          "measurementQuantity": "For deep frying"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "For Batter",
+      "procedureSteps": [
+        {
+          "stepDescription": "Mix well with a spoon All-purpose flour, corn starch, turmeric powder.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_1_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_1_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Add curd and mix well.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_2_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_2_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Add little water to the batter. Using a hand mixer, mix well until no lumps are present. Batter should not be too thick or too runny. Add water if batter is too thick. If you have added more water than needed, add extra all-purpose flour, curd and little corn starch and mix well.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_3_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_3_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_3_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Cover the batter and store in a dry place away from sunlight for fermentation for minimum 2 hours . For best results, ferment for 24 hrs. The batter is naturally fermented but do not rise.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_4_1.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Crush Saffron with a pinch of sugar. Sugar helps the crushing easier and makes fine powder. Add saffron, baking powder and oil into the fermented batter and mix well. Let it rest for 10 mins.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_5_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_5_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "procedureName": "For Sugar Syrup",
+      "procedureSteps": [
+        {
+          "stepDescription": "In a pan, add water and sugar and stir well with a spoon. On a medium flame, let this syrup boil. Once it starts boiling, reduce the flame to low.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_1_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_1_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Add lemon juice too prevent crystallization and mix well. Then add saffron, cardamom powder. Let it simmer for 8 mins. Switch off the stove. Sugar syrup is ready.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_2_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_2_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "procedureName": "For making Jalebi",
+      "procedureSteps": [
+        {
+          "stepDescription": "Heat oil in a kadhai \\ wok for frying on medium flame.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_1_1.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "I have a ketchup bottle at home, that I use to make jalebis and it also helps to maintain jalebi shape. Fill in the batter in the bottle.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_2_1.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Once the oil is heated, start pouring the batter from the ketchup bottle into a desired shape. It takes approx 45 secs to fry 1 jalebi. Fry till you get golden yellow color.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_3_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_3_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Remove the fried jalebi from oil and dip into the sugar syrup for not more than 25 secs. Take out excess syrup using a fork or tongs. Fried jalebi will soak the sugar syrup. Keep it aside.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_4_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_4_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_4_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "tipDesc": "Make sure, Jalebis are cooled down completely before storing them, otherwise, the heat will make it soggy.You can store jalebis in refrigerator for 4-5 days."
+    },
+    {
+      "tipDesc": "Corn starch will help retaining its crispiness. You can add more corn starch if you want your jalebis to be more crisp."
+    }
+  ]
+}

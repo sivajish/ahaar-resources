@@ -1,0 +1,142 @@
+{
+  "recipeId": "instant_egg_dosa",
+  "recipeName": "Instant Egg Dosa",
+  "recipeSmallImageUrl": "recipe_small_image.JPG",
+  "recipeLargeImageUrl": "recipe_big_image.JPG",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Dosa or Dosai, is a fermented crepe or pancake made from rice and black lentils soaked overnight. It is a popular breakfast and snack in southern India and is eaten with Sambhar or Chutney. Rice and lentils are finely grounded and allowed to ferment for minimum 8 hours.  Fermentation increases the vitamin B and C content and is rich in carbohydrate and protein."
+    },
+    {
+      "recipeDescriptionLine": "In the fast pacing world, many of us opt for buying instant batter or food available outside, but one should not forget that they are less in nutrients and if eaten on streets, there are high chances to get contaminated."
+    },
+    {
+      "recipeDescriptionLine": "Instant Egg dosa does not have a hassle to soak or ferment."
+    }
+  ],
+  "preface": "Though the dish name says, 'Instant', the batter is still prepared at home fresh, can be made anywhere. If you are confused what to make, just look for these basic ingredients in your kitchen and eat a nice snack or breakfast in just 20 minutes.",
+  "servings": "Make 4 dosas",
+  "prepTime": "10 mins",
+  "cookTime": "20 mins",
+  "publishDate": "2014-11-04T07:28:16.639Z",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "",
+      "ingredientList": [
+        {
+          "ingredientName": "Rice Flour",
+          "measurementQuantity": "1/4 cup"
+        },
+        {
+          "ingredientName": "Besan (Gram Flour)",
+          "measurementQuantity": "1/4 cup"
+        },
+        {
+          "ingredientName": "Sooji (Semolina)",
+          "measurementQuantity": "1/4 cup"
+        },
+        {
+          "ingredientName": "Water",
+          "measurementQuantity": "1 cup"
+        },
+        {
+          "ingredientName": "Eggs",
+          "measurementQuantity": "2"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "As per taste"
+        },
+        {
+          "ingredientName": "Onions",
+          "measurementQuantity": "1 tbsp, finely chopped"
+        },
+        {
+          "ingredientName": "Green Chillies",
+          "measurementQuantity": "2 finely chopped"
+        },
+        {
+          "ingredientName": "Fresh Coriander Leaves",
+          "measurementQuantity": "2 tbsp, finely chopped"
+        },
+        {
+          "ingredientName": "Tomatoes",
+          "measurementQuantity": "1 tbsp finely chopped"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "",
+      "procedureSteps": [
+        {
+          "stepDescription": "Grind all the flour together with water until smooth texture is obtained (minimum 1 minute). The consistency should be little thicker than milk. Keep it aside.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_1.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Beat the eggs well, add onions, chillies and salt. Keep it aside.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Heat a pan on medium flame. Once heated, grease it with a little oil. Pour a small portion of batter on pan and spread evenly. Cover it and allow it to cook for a minute.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Flip the dosa and allow the other side to cook for a minute. Once both sides are cooked, put  a layer of egg mix and spread evenly with a spoon.. Wait for 1 minute and slowly flip the side again so that egg portion gets cooked directly. Remove the dosa from the pan once the egg is cooked (about 1 minute).",
+          "stepImages": [
+            {
+              "ImageUrl": "step_4_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Enjoy as a breakfast or snacks with your favorite chutney accompanied by tea.",
+          "stepImages": []
+        }
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "tipDesc": "If you are a vegetarian, just use dosa batter to make instant dosa. Make sure the pan is heated, otherwise dosa with take lot of time to cook and the desired texture will be lost. Also, stir the batter well before pouring on the pan. This ensures right consistency for each dosa made."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "recipeId": "rice_pudding",
+  "recipeName": "Rice Pudding",
+  "recipeSmallImageUrl": "recipe_small_image.jpg",
+  "recipeLargeImageUrl": "recipe_big_image.jpg",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Rice Pudding or Chawal ki Kheer also known as Payasam in South India is a creamy sweet dish made with thickened milk and rice."
+    },
+    {
+      "recipeDescriptionLine": "Kheer is made in all special occasions, while rice is mostly used for making the dish, but vermicelli or seviyan can be used as well."
+    },
+    {
+      "recipeDescriptionLine": "A full fledged meal is incomplete without a dessert, and why not make it with ingredients readily available at home. This kheer is known to many, tasted and loved my many. This recipe is not only famous in India but also loved by people from other countries. Try this easy way of making one at home."
+    }
+  ],
+  "preface": "",
+  "servings": "2-4",
+  "prepTime": "10 mins",
+  "cookTime": "1 hour",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "",
+      "ingredientList": [
+        {
+          "ingredientName": "Cooked Rice",
+          "measurementQuantity": "1 cup"
+        },
+        {
+          "ingredientName": "Milk",
+          "measurementQuantity": "4 cups"
+        },
+        {
+          "ingredientName": "Sugar",
+          "measurementQuantity": "1.5 cups or as per taste"
+        },
+        {
+          "ingredientName": "Cardamom (Ilaichi)",
+          "measurementQuantity": "3, skin removed and finely crushed"
+        },
+        {
+          "ingredientName": "Saffron (Kesar)",
+          "measurementQuantity": "Few strings, optional"
+        },
+        {
+          "ingredientName": "Raisins (Kishmish)",
+          "measurementQuantity": "1/4 cup"
+        },
+        {
+          "ingredientName": "Cashews (Kaju)",
+          "measurementQuantity": "1/4 cup"
+        },
+        {
+          "ingredientName": "Ghee",
+          "measurementQuantity": "1 tbsp"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "",
+      "procedureSteps": [
+        {
+          "stepDescription": "Cook rice and keep it separate.If you have cooked rice in pressure cooker, then once it cools down, separate rice grains to avoid lumps in kheer.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_1.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "If you are using saffron, using mortar and pestle, crush it along with 1 pinch of sugar. Sugar helps in easy crushing. Once crushed, shift into a small bowl and add little milk. It will change into deep yellow color. Keep this aside. This needs to be put in the milk.Grind cardamom and keep it aside.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Heat ghee in small pan, shallow fry the raisins and cashews for 1 min. This adds flavor and richness to the kheer. My friend suggested me the idea. Initially I used to go for healthier way of soaking them in water for minimum 30 mins before putting in kheer.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_1.jpg",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "In a thick heavy bottom pan, put milk and sugar and heat it on a low flame till the milk thickens and reduce by at least 30 percent. Keep stirring, so that milk does not stick to bottom. This is required for the creamy texture. Then add rice and saffron and let it cook on medium low flame for 20 mins. Switch off the stove.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_4_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Once done, add cardamom powder and fried nuts. Enjoy hot or cold as per your choice.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_5_1.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "tipDesc": "Rice tends to soak some milk if kept overnight. Therefore, always use more milk during preparation. You can also use your choice of dry fruits to put in kheer."
+    },
+    {
+      "tipDesc": "I generally prefer cooking rice the basic way by boiling rice in water and removing excess water once rice is cooked. The rice would be soft and separate."
+    }
+  ]
+}

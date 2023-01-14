@@ -1,0 +1,210 @@
+{
+  "recipeId": "chicken_pickle",
+  "recipeName": "Chicken Pickle",
+  "recipeSmallImageUrl": "recipe_small_image.JPG",
+  "recipeLargeImageUrl": "recipe_big_image.JPG",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Chicken Pickle is a famous Andhra recipe which is a non-vegetarian spicy pickle cooked with Indian spices along with grated onions. Pickles in general are made from variety of fruits and vegetables (meat and fish mostly in South India) which are cooked in edible oil with many spices like turmeric powder, chilly powder and plenty of salt."
+    },
+    {
+      "recipeDescriptionLine": "In this recipe, chicken is first boiled and later fried for crispiness. The pickle can be stored in refrigerator for almost 2 months if stored tightly in a glass container. It tastes great if eaten as it is or accompanied with a main dish."
+    }
+  ],
+  "preface": "I was surprised when my husband asked me to buy chicken pickle from the store, because, I had never heard this dish before. I searched in all possible stores but unable to find it. Later, I got yo know, this is a famous pickle in Andhra Pradesh. I wanted to see and taste this wonderful pickle that amazed him. I got that chance and not only I became a fan of this but also learnt to make one. And when I mention this dish to my friends, they are surprised as well to know that a pickle can be made of chicken. So now I am sharing this recipe with you. Thanks to Jyoti Aunt for being patient and teaching me the same.  This is an amazing pickle and you must try it soon.",
+  "servings": "20",
+  "prepTime": "30 mins",
+  "cookTime": "1 hour 30 mins",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "For Cooking Chicken",
+      "ingredientList": [
+        {
+          "ingredientName": "Chicken",
+          "measurementQuantity": "1 kg, boneless"
+        },
+        {
+          "ingredientName": "Turmeric Powder",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "2 tbsp"
+        },
+        {
+          "ingredientName": "Oil",
+          "measurementQuantity": "For Frying"
+        }
+      ]
+    },
+    {
+      "ingredientTitle": "For Masala",
+      "ingredientList": [
+        {
+          "ingredientName": "Onion",
+          "measurementQuantity": "2 big"
+        },
+        {
+          "ingredientName": "Ginger Garlic Paste",
+          "measurementQuantity": "2 tbsp"
+        },
+        {
+          "ingredientName": "Red Chilly Powder",
+          "measurementQuantity": "5 tbsp"
+        },
+        {
+          "ingredientName": "Dry Coconut Powder",
+          "measurementQuantity": "1/2cup, dry"
+        },
+        {
+          "ingredientName": "Garam Masala",
+          "measurementQuantity": "1/2 tbsp"
+        },
+        {
+          "ingredientName": "Fenugreek (Methi) Powder",
+          "measurementQuantity": "1/2 tbsp, roasted"
+        },
+        {
+          "ingredientName": "Cumin (Jeera)Powder",
+          "measurementQuantity": "1/2 tbsp, roasted"
+        },
+        {
+          "ingredientName": "Coriander (Dhaniya) Powder",
+          "measurementQuantity": "1 tbsp, roasted"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "As per taste"
+        },
+        {
+          "ingredientName": "Lemon Juice",
+          "measurementQuantity": "4 tbsp"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "For Cooking Chicken",
+      "procedureSteps": [
+        {
+          "stepDescription": "Cut chicken into small pieces. Add 1/4 tbsp of salt and turmeric to it and mix well. Rinse it then with water. This helps in removing any raw smell from chicken.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_1_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_1_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Dry chicken using tissue paper to remove excess water.",
+          "stepImages": []
+        },
+        {
+          "stepDescription": "In a vessel, add chicken and remaining salt and turmeric powder. Mix it well. Cover and let the chicken cook on low flame for 15 mins. Remove the lid and it cook until all water evaporates. Let it cool down.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_3_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_3_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Once done, heat oil in a wok. Start frying chicken until golden brown. It should not be too soft or hard. Keep it aside.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_4_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_4_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "procedureName": "For Masala",
+      "procedureSteps": [
+        {
+          "stepDescription": "When chicken is getting cooked, start the initial preparation for Masala.",
+          "stepImages": []
+        },
+        {
+          "stepDescription": "Shred the onions or grind it whichever is convenient. Take a thin piece of cloth. Put the shredded onions on it and drain out the water from onions.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_2_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_2_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "In the same oil used to fry chicken, add shredded onions. Let it fry until brown (~20 mins). Keep stirring to avoid sticking. Add ginger garlic paste, let it fry till raw smell goes away(10 mins). Keep stirring.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_3_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_3_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_3_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Reduce the flame to low, add all the dry powders and salt. Mix it well. Keep mixing for 15 mins. Add salt if required. Remember, chicken has got some amount of salt already.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_4_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_4_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Add chicken, mix it well. Let it cool down. Add lemon juice. Mix it well.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_5_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_5_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "tipDesc": "All dry powders must be roasted. The same recipe can be used to make prawns and mutton pickle as well. Store the pickle in glass container and can be refrigerated for 2 months. Pickle tastes better if red onions are used."
+    },
+    {
+      "tipDesc": "If you are using fresh shredded coconut, roast it in 1 tbsp oil separately before adding to the masala."
+    }
+  ]
+}

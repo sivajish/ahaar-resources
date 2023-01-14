@@ -1,0 +1,104 @@
+{
+  "recipeId": "sabudana_vada",
+  "recipeName": "Sabudana Vada",
+  "recipeSmallImageUrl": "recipe_small_image.JPG",
+  "recipeLargeImageUrl": "recipe_big_image.JPG",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Sabudana Vada also known as Sago vada is a famous snack from Maharashtra. It is a deep fried snack that is served along with chutney and hot tea."
+    },
+    {
+      "recipeDescriptionLine": "Sabudana (Pearl Tapioca) is soaked overnight for this recipe. It is also a nutritional snack served during religious festivals and during fast/vrat."
+    },
+    {
+      "recipeDescriptionLine": "It tastes best eaten fresh and hot."
+    }
+  ],
+  "preface": "",
+  "servings": "4-6",
+  "prepTime": "15 mins",
+  "cookTime": "30 mins",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "",
+      "ingredientList": [
+        {
+          "ingredientName": "Sabudana or Pearl Tapioca",
+          "measurementQuantity": "1 cup, soaked for minimum 6 hrs"
+        },
+        {
+          "ingredientName": "Potato",
+          "measurementQuantity": "1 medium, boiled and skin peeled of and mashed"
+        },
+        {
+          "ingredientName": "Ginger",
+          "measurementQuantity": "1 tbsp, finely chopped"
+        },
+        {
+          "ingredientName": "Green chillies",
+          "measurementQuantity": "3, finely chopped"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "As per taste"
+        },
+        {
+          "ingredientName": "Coriander Leaves",
+          "measurementQuantity": "1/2 cup finely chopped"
+        },
+        {
+          "ingredientName": "Peanuts",
+          "measurementQuantity": "Roasted, husk removed and powdered"
+        },
+        {
+          "ingredientName": "Oil",
+          "measurementQuantity": "For deep frying"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "",
+      "procedureSteps": [
+        {
+          "stepDescription": "Sabudana will increase in size a bit and will become soft. Mash the potatoes. Mix well all ingredients together. Then take small portion and make in tennis ball size and flatten a little bit.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "In a pan, heat little oil. Then put the flattened sabudana mix. Once it turns golden brown flip it wait for other side to become golden brown.  The sabudana vada will be soft.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_1.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "For deep frying, once oil is hot, fry sabudana pieces till golden brown, drain excess oil. The vadas will be crispy.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": []
+}

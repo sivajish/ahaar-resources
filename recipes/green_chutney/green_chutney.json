@@ -1,0 +1,82 @@
+{
+  "recipeId": "green_chutney",
+  "recipeName": "Green Chutney",
+  "recipeSmallImageUrl": "recipe_small_image.jpg",
+  "recipeLargeImageUrl": "recipe_big_image.jpg",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Green Chutney is a spicy chutney made with mainly coriander and mint leaves. It is mainly used for preparing all types of chat and acts as a spread in many types of sandwiches."
+    },
+    {
+      "recipeDescriptionLine": "The preparation of this chutney is very simple and instant. The main ingredients coriander and mint leaves makes this chutney quite nutritional."
+    },
+    {
+      "recipeDescriptionLine": "Mint is a very good cleanser for the blood and soothes the digestive tract. Coriander leaves is a wonderful source of Iron, dietary fiber, Vitamin C and K. Coriander lowers bad cholesterol (LDL) and increases the levels of good cholesterol (HDL)."
+    }
+  ],
+  "preface": "",
+  "servings": "3-4",
+  "prepTime": "5 mins",
+  "cookTime": "5 mins",
+  "publishDate": "2014-11-17T03:59:30.576Z",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "",
+      "ingredientList": [
+        {
+          "ingredientName": "Fresh coriander leaves",
+          "measurementQuantity": "2 cup, chopped"
+        },
+        {
+          "ingredientName": "Fresh Mint leaves",
+          "measurementQuantity": "1 cup, chopped"
+        },
+        {
+          "ingredientName": "Ginger",
+          "measurementQuantity": "1 tbsp, chopped"
+        },
+        {
+          "ingredientName": "Green chillies",
+          "measurementQuantity": "3, chopped"
+        },
+        {
+          "ingredientName": "Lemon Juice",
+          "measurementQuantity": "1 to 2 tbsp"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "1 tsp or as per taste"
+        },
+        {
+          "ingredientName": "Sugar",
+          "measurementQuantity": "Pinch"
+        },
+        {
+          "ingredientName": "Oil",
+          "measurementQuantity": "1 tsp"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "",
+      "procedureSteps": [
+        {
+          "stepDescription": "Wash coriander, mint leaves and green chillies well.",
+          "stepImages": []
+        },
+        {
+          "stepDescription": "Grind all ingredients to smooth paste. Sugar and Oil helps in retaining the fresh green color and taste for a longer time.",
+          "stepImages": []
+        },
+        {
+          "stepDescription": "The chutney can be stored in refrigerator for up to 3 weeks.  The chutney goes well with all kind of chaats.",
+          "stepImages": []
+        }
+      ]
+    }
+  ],
+  "tips": []
+}

@@ -1,0 +1,117 @@
+{
+  "recipeId": "veg_thoran",
+  "recipeName": "Veg Thoran",
+  "recipeSmallImageUrl": "recipe_small_image.JPG",
+  "recipeLargeImageUrl": "recipe_big_image.JPG",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Thoran is a popular dry dish from Kerala which is made of finely chopped vegetables eaten along with steamed rice. It can be made with any finely chopped vegetables like bittergourd, green or yardlong beans, carrot, cabbage, unripe jackfruit."
+    },
+    {
+      "recipeDescriptionLine": "The vegetables are cooked and mixed with a seasoning of mustard seeds, curry leaves along with other dry ingredients."
+    }
+  ],
+  "preface": "",
+  "servings": "4-6",
+  "prepTime": "15 mins",
+  "cookTime": "25 mins",
+  "publishDate": "2014-11-06T09:49:15.273Z",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "",
+      "ingredientList": [
+        {
+          "ingredientName": "Vegetable of your choice",
+          "measurementQuantity": "250 g"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "As per taste"
+        },
+        {
+          "ingredientName": "Turmeric Powder (Haldi)",
+          "measurementQuantity": "1 tsp"
+        },
+        {
+          "ingredientName": "Red Chilly Powder",
+          "measurementQuantity": "1 tsp"
+        },
+        {
+          "ingredientName": "Cumin Seeds (Jeera)",
+          "measurementQuantity": "1 tsp"
+        },
+        {
+          "ingredientName": "Garlic",
+          "measurementQuantity": "5 cloves"
+        },
+        {
+          "ingredientName": "Freshly grated coconut",
+          "measurementQuantity": "4 tbsp"
+        },
+        {
+          "ingredientName": "Mustard Seeds",
+          "measurementQuantity": "1 tsp"
+        },
+        {
+          "ingredientName": "Curry Leaves",
+          "measurementQuantity": "6-8"
+        },
+        {
+          "ingredientName": "Red Chillies",
+          "measurementQuantity": "2, cu into halves"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "",
+      "procedureSteps": [
+        {
+          "stepDescription": "Boil the vegetable with 50 ml of water along with salt, turmeric and red chilly powder. It will take 15-20 mins to cook. If water is still remaining, cook on high flame to remove all water.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Meanwhile, in a mortar and pestle, coarsely grind cumin seeds, add garlic and crush it. Once done, add coconut and crush together. Keep it aside.",
+          "stepImages": []
+        },
+        {
+          "stepDescription": "Once vegetables are cooked, start the seasoning, by adding mustard seeds in hot oil, followed by curry leaves and red chilies. Add the ground mixture and sauté for 1 minute. Add the entire mixture to the boiled vegetable and mix well. Add salt if required.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "tipDesc": "I used cabbage for this recipe. It tastes great with the above mentioned vegetable. Don't add too much salt and water while boiling vegetable, otherwise, the dish will become very salty and mushy. If vegetables are not boiled, you can still add little water and repeat the step until cooked."
+    }
+  ]
+}

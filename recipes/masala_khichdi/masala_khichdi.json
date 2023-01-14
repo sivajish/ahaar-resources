@@ -1,0 +1,179 @@
+{
+  "recipeId": "masala_khichdi",
+  "recipeName": "Masala Khichdi",
+  "recipeSmallImageUrl": "recipe_small_image.jpg",
+  "recipeLargeImageUrl": "recipe_big_image.jpg",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Khichdi commonly considered as comfort food is made from rice and lentils. It is a one pot meal in which the nutritional value is increased by adding variety of vegetables."
+    },
+    {
+      "recipeDescriptionLine": "The dish is known in almost all parts of India. It doesn't require any other side dish but it is still enjoyed with pickle, curd and papad."
+    }
+  ],
+  "preface": "",
+  "servings": "2",
+  "prepTime": "15 mins",
+  "cookTime": "45 mins",
+  "publishDate": "2015-03-11T00:00:49.982Z",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "",
+      "ingredientList": [
+        {
+          "ingredientName": "Moong Dal",
+          "measurementQuantity": "1/2 cup"
+        },
+        {
+          "ingredientName": "Rice",
+          "measurementQuantity": "1/2 cup"
+        },
+        {
+          "ingredientName": "Tejpatta (Bay Leaf)",
+          "measurementQuantity": "2"
+        },
+        {
+          "ingredientName": "Kali Mirch (Black Pepper)",
+          "measurementQuantity": "1/2 tbsp"
+        },
+        {
+          "ingredientName": "Laung (Cloves)",
+          "measurementQuantity": "4"
+        },
+        {
+          "ingredientName": "Ilaichi (Cardamom)",
+          "measurementQuantity": "2"
+        },
+        {
+          "ingredientName": "Dalchini (Cinnamon)",
+          "measurementQuantity": "1 inch"
+        },
+        {
+          "ingredientName": "Onions",
+          "measurementQuantity": "1/2, finely chopped"
+        },
+        {
+          "ingredientName": "Green Chillies",
+          "measurementQuantity": "2, finely chopped"
+        },
+        {
+          "ingredientName": "Tomato",
+          "measurementQuantity": "1, finely chopped"
+        },
+        {
+          "ingredientName": "Ginger Garlic Paste",
+          "measurementQuantity": "1 tsp"
+        },
+        {
+          "ingredientName": "Haldi (Turmeric)",
+          "measurementQuantity": "1/4 tsp"
+        },
+        {
+          "ingredientName": "Dhaniya (Coriander) Powder",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Jeera(Cumin) Powder",
+          "measurementQuantity": "1/2 tbsp"
+        },
+        {
+          "ingredientName": "Garam Masala",
+          "measurementQuantity": "1 tsp"
+        },
+        {
+          "ingredientName": "Vegetables of your choice",
+          "measurementQuantity": "1 cup"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "As per taste"
+        },
+        {
+          "ingredientName": "Ghee / Oil",
+          "measurementQuantity": "2-3 tbsp for Cooking"
+        },
+        {
+          "ingredientName": "Water",
+          "measurementQuantity": "4 cups"
+        },
+        {
+          "ingredientName": "Fresh Dhaniya (Coriander) Leaves",
+          "measurementQuantity": "For garnish"
+        },
+        {
+          "ingredientName": "Lemon Juice (optional)",
+          "measurementQuantity": "1 tbsp"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "",
+      "procedureSteps": [
+        {
+          "stepDescription": "Mix rice and moong dal, Wash it well with water 2-3 times. Then soak it in water for half an hour.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_1.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Heat oil / ghee in pressure cooker. Add tejpatta, laung, ilaichi, dalchini, kali mirch. Allow it to sizzle for 30 secs. Then add onions and green chillies. Fry till onions become slight brown. Then add ginger garlic paste and fry for a minute.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Add haldi, dhaniya and jeera powder, fry for 30 secs then add tomatoes and garam masala. Fry till tomatoes becomes soft. Wash your choice of vegetables, cut into desired size and add it to masala along with rice and moong dal. Mix it well.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Add water, lemon juice and salt. Close the lid of the pressure cooker and wait for 3 whistles. Serve hot and garnish with fresh dhaniya.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_4_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "tipDesc": "I prefer to eat very soft khichdi, so I add more water. You can reduce the water content by 1 cup as per your choice"
+    }
+  ]
+}

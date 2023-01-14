@@ -1,0 +1,247 @@
+{
+  "recipeId": "malai_kofta",
+  "recipeName": "Malai Kofta",
+  "recipeSmallImageUrl": "recipe_small_image.jpg",
+  "recipeLargeImageUrl": "recipe_big_image.jpg",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Malai Kofta is a popular north indian dish that belongs to Mughlai Cuisine. Malai means cream and Kofta means fried  dumplings."
+    },
+    {
+      "recipeDescriptionLine": "In a vegetarian dish, koftas can be of different varieties like paneer kofta, lauki kofta. In this recipe koftas are made with potatoes and carrots. Good news for non-vegetarian lovers, koftas can be made with minced chicken and lamb as well."
+    },
+    {
+      "recipeDescriptionLine": "This dish can be enjoyed with roti, naan, poori or basmati rice."
+    }
+  ],
+  "preface": "",
+  "servings": "6",
+  "prepTime": "30 mins",
+  "cookTime": "45 mins",
+  "publishDate": "2016-03-18T03:15:15.484Z",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "For Kofta",
+      "ingredientList": [
+        {
+          "ingredientName": "Potato",
+          "measurementQuantity": "1, medium size boiled"
+        },
+        {
+          "ingredientName": "Carrot",
+          "measurementQuantity": "2, peeled and grated"
+        },
+        {
+          "ingredientName": "Coriander leaves",
+          "measurementQuantity": "2 tbsp, finely chopped"
+        },
+        {
+          "ingredientName": "Ginger",
+          "measurementQuantity": "1/2 tbsp, grated"
+        },
+        {
+          "ingredientName": "Dry Mango (Amchur) Powder",
+          "measurementQuantity": "1/4 tbsp"
+        },
+        {
+          "ingredientName": "Green Chilies",
+          "measurementQuantity": "3, finely chopped"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "As per taste"
+        },
+        {
+          "ingredientName": "Corn Flour",
+          "measurementQuantity": "1/4 cup"
+        },
+        {
+          "ingredientName": "Oil",
+          "measurementQuantity": "For deep frying"
+        }
+      ]
+    },
+    {
+      "ingredientTitle": "For Gravy",
+      "ingredientList": [
+        {
+          "ingredientName": "Onion",
+          "measurementQuantity": "2 medium size, chopped"
+        },
+        {
+          "ingredientName": "Ginger Garlic Paste",
+          "measurementQuantity": "1/2 tbsp"
+        },
+        {
+          "ingredientName": "Tumeric Powder",
+          "measurementQuantity": "1/2 tbsp"
+        },
+        {
+          "ingredientName": "Red Chilly Powder",
+          "measurementQuantity": "1/2 tbsp"
+        },
+        {
+          "ingredientName": "Coriander Powder",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Tomatoes",
+          "measurementQuantity": "2, chopped"
+        },
+        {
+          "ingredientName": "Cashews (Kaju)",
+          "measurementQuantity": "1/4 cup"
+        },
+        {
+          "ingredientName": "Cardamom",
+          "measurementQuantity": "2"
+        },
+        {
+          "ingredientName": "Bay Leaf",
+          "measurementQuantity": "1"
+        },
+        {
+          "ingredientName": "Cinnamon",
+          "measurementQuantity": "1 inch"
+        },
+        {
+          "ingredientName": "Cloves",
+          "measurementQuantity": "2"
+        },
+        {
+          "ingredientName": "Caraway Seeds(Shah Jeera)",
+          "measurementQuantity": "1/4 tbsp"
+        },
+        {
+          "ingredientName": "Kasuri Methi",
+          "measurementQuantity": "1 tbsp"
+        },
+        {
+          "ingredientName": "Fresh Cream (Malai)",
+          "measurementQuantity": "1/4 cup"
+        },
+        {
+          "ingredientName": "Garam Masala",
+          "measurementQuantity": "1/4 tbsp"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "As per taste"
+        },
+        {
+          "ingredientName": "Oil",
+          "measurementQuantity": "3 tbsp"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "",
+      "procedureSteps": [
+        {
+          "stepDescription": "For making Koftas, one can use any vegetable of their choice. In this recipe, potatoes and carrots have been used. Mix all vegetables with the above mentioned ingredients except corn flour. Now make small balls and roll it over corn flour. Fry in oil till golden brown.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_3.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_4.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_5.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "For gravy, heat 2 tbsp oil, saute onions and green chillies till onions are brown. Add ginger garlic paste, saute for a minute. Then add turmeric, red chilli, coriander and cumin powder and saute for another minute. ",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_3.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_4.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Add cashews, tomatoes and saute for one minute. Keep stirring till the tomatoes starts to leave oil. Once it cools down, make a fine paste.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "In a kadai or pan, heat remaining 1 tbsp oil. Then add cardamom, bay leaves, cinnamon, cloves, shahjeera and allow it to sizzle. Add ground paste prepared before and mix it well with water to a desired consistency.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_4_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Add garam masala, kasuri methi and mix it well. Simmer the gravy on a low flame for 7-8 minutes. Switch off the stove and add cream. Add koftas few minutes before serving to preserve crispiness.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_5_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_5_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "tipDesc": "If you do not have cream, then use 1/4 cup of milk and boil it well to add richness."
+    },
+	{
+      "tipDesc": "If you wish to refrigerate the dish always store koftas and gravy separately, otherwise koftas will become soggy."
+    }
+  ]
+}

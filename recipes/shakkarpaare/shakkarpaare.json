@@ -1,0 +1,130 @@
+{
+  "recipeId": "shakkarpaare",
+  "recipeName": "Shakkarpaare",
+  "recipeSmallImageUrl": "recipe_small_image.JPG",
+  "recipeLargeImageUrl": "recipe_big_image.JPG",
+  "recipeDescriptionLines": [
+    {
+      "recipeDescriptionLine": "Shakkarpaare also known as Shankarpali is a crispy and crunchy snack made during festivals especially during Diwali. It has a mild sweetness to it and just melts in your mouth . This snack can be enjoyed with tea."
+    },
+    {
+      "recipeDescriptionLine": "This snack is very easy to make and once made, allow it to cool down completely and store in an airtight container for up to a month."
+    },
+    {
+      "recipeDescriptionLine": "In northern part of sugar is added at a later stage in the form of sugar syrup which is then mixed with the fried paare."
+    }
+  ],
+  "preface": "",
+  "servings": "10",
+  "prepTime": "10 mins",
+  "cookTime": "30 mins",
+  "publishDate": "2014-11-03T07:17:49.911Z",
+  "ingredients": [
+    {
+      "ingredientGrpId": 0,
+      "ingredientTitle": "",
+      "ingredientList": [
+        {
+          "ingredientName": "All Purpose Flour (Maida)",
+          "measurementQuantity": "2 cups"
+        },
+        {
+          "ingredientName": "Semolina (Sooji)",
+          "measurementQuantity": "1/2 cup"
+        },
+        {
+          "ingredientName": "Ghee",
+          "measurementQuantity": "1/2 cup"
+        },
+        {
+          "ingredientName": "Sugar (Powdered or granulated)",
+          "measurementQuantity": "1/2 cup"
+        },
+        {
+          "ingredientName": "Milk",
+          "measurementQuantity": "1/2 cup"
+        },
+        {
+          "ingredientName": "Salt",
+          "measurementQuantity": "A pinch"
+        },
+        {
+          "ingredientName": "Oil",
+          "measurementQuantity": "For deep frying"
+        }
+      ]
+    }
+  ],
+  "cookingProcedures": [
+    {
+      "procedureName": "",
+      "procedureSteps": [
+        {
+          "stepDescription": "Melt the ghee, add sugar and salt to it and mix well. Warm the milk and mix it well with the ghee till sugar dissolves completely. After that allow it to cool.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_1_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_1_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Add sooji and maida and knead it to make a soft dough. Cover and allow the dough to rest for 15 mins.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_2_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_2_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "Divide the dough into equal portions, roughly the size of a golf ball. Roll between your palms, till smooth without any cracks. Start rolling the dough 1/2 thickness. Using a pizza cutter, cut into square or diamond shape.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_3_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_3_2.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        },
+        {
+          "stepDescription": "In a kadai,heat oil. Make sure oil is hot. Add the cut squares, heat it till the color changes to golden brown. Remove the excess oil and put it on a tissue paper. Allow it to cool and store in an airtight container.",
+          "stepImages": [
+            {
+              "ImageUrl": "step_4_1.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_2.JPG",
+              "ImageAltText": ""
+            },
+            {
+              "ImageUrl": "step_4_3.JPG",
+              "ImageAltText": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "tipDesc": "Don' make the dough too thick as it will not cook the paare properly."
+    }
+  ]
+}

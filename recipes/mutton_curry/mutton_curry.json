@@ -1,0 +1,268 @@
+﻿{
+    "recipeId":  "mutton_curry",
+    "recipeName": "Mutton - Goat Curry",
+    "recipeSmallImageUrl": "recipe_small_image.jpg",
+    "recipeLargeImageUrl": "recipe_big_image.jpg",
+    "recipeDescriptionLines": [
+        {
+            "recipeDescriptionLine": "Goat Curry,  widely known as Mutton curry in most part of India is a famous red meat cooked in authentic blend of spices. It may vary from mild spicy to very spicy."
+        },
+        {
+            "recipeDescriptionLine": "The flavor and aroma is a result of blend and combination of roasted onions, ginger, garlic, tomatoes and spices like coriander, turmeric, chili and cumin powder."
+        }
+    ],
+    "preface": "",
+    "servings": "8",
+    "prepTime": "30 mins",
+    "cookTime": "1 hour",
+    "ingredients":  [
+        {
+            "ingredientTitle": "For Marination",
+            "ingredientList": [
+                {
+                    "ingredientName":  "Mutton (Goat Meat)",
+                    "measurementQuantity": "1 kg"
+                },
+                {
+                    "ingredientName":  "Turmeric Powder",
+                    "measurementQuantity": "1/2 tbsp"
+                },
+                {
+                    "ingredientName":  "Chilly powder",
+                    "measurementQuantity": "3 tbsp"
+                },
+                {
+                    "ingredientName":  "Salt",
+                    "measurementQuantity": "2 tbsp"
+                }
+            ]
+        },
+        {
+            "ingredientTitle": "For Ground Paste",
+            "ingredientList": [
+                {
+                    "ingredientName":  "Red Chillies",
+                    "measurementQuantity": "3 cut into halves"
+                },
+                {
+                    "ingredientName":  "Coriander seeds",
+                    "measurementQuantity": "2 tbsp"
+                },
+                {
+                    "ingredientName":  "Cumin Seeds",
+                    "measurementQuantity": "1 tbsp"
+                },
+                {
+                    "ingredientName":  "Fennel seeds",
+                    "measurementQuantity": "1 tbsp"
+                },
+                {
+                    "ingredientName":  "Black Pepper seeds",
+                    "measurementQuantity": "1/2 tbsp"
+                },
+                {
+                    "ingredientName":  "Coconut",
+                    "measurementQuantity": "100 g"
+                },
+                {
+                    "ingredientName":  "Oil",
+                    "measurementQuantity": "2 tbsp"
+                },
+                {
+                    "ingredientName":  "Water",
+                    "measurementQuantity": "For grinding"
+                }
+            ]
+        },
+        {
+            "ingredientTitle": "For Gravy",
+            "ingredientList": [
+                {
+                    "ingredientName":  "Bay Leaf",
+                    "measurementQuantity": "3-4"
+                },
+                {
+                    "ingredientName":  "Cinnamon",
+                    "measurementQuantity": "2-4 pieces"
+                },
+                {
+                    "ingredientName":  "Cumin Seeds",
+                    "measurementQuantity": "1/2 tbsp"
+                },
+                {
+                    "ingredientName":  "Fennel seeds",
+                    "measurementQuantity": "1 tbsp"
+                },
+                {
+                    "ingredientName":  "Black Cardamom",
+                    "measurementQuantity": "3"
+                },
+                {
+                    "ingredientName":  "Green Cardamom",
+                    "measurementQuantity": "6"
+                },
+                {
+                    "ingredientName":  "Cloves",
+                    "measurementQuantity": "4"
+                },
+                {
+                    "ingredientName":  "Caraway Seeds (Shah Jeera)",
+                    "measurementQuantity": "1/2 tbsp"
+                },
+                {
+                    "ingredientName":  "Black Pepper",
+                    "measurementQuantity": "1/2 tbsp"
+                },
+                {
+                    "ingredientName":  "Onion",
+                    "measurementQuantity": "1 big, finely chopped"
+                },
+                {
+                    "ingredientName":  "Ginger Garlic Paste",
+                    "measurementQuantity": "2 tbsp"
+                },
+                {
+                    "ingredientName":  "Tomato",
+                    "measurementQuantity": "2 finely chopped"
+                },
+                {
+                    "ingredientName":  "Turmeric Powder",
+                    "measurementQuantity": "1/2 tbsp"
+                },
+                {
+                    "ingredientName":  "Red Chilly Powder",
+                    "measurementQuantity": "2 tbsp"
+                },
+                {
+                    "ingredientName":  "Oil",
+                    "measurementQuantity": "For Cooking"
+                },
+                {
+                    "ingredientName":  "Water",
+                    "measurementQuantity": "2 cups (~500 ml)"
+                },
+                {
+                    "ingredientName":  "Salt",
+                    "measurementQuantity": "As per taste"
+                },
+                {
+                    "ingredientName":  "Coriander Leaves",
+                    "measurementQuantity": "For garnishing"
+                }
+            ]
+        }                
+    ],
+    "cookingProcedures": [
+        {
+            "procedureName": "Marination",
+            "procedureSteps": [
+                {
+                    "stepNo":  "1",
+                    "stepDescription": "Marinate mutton with the spices and keep it overnight in the refrigerator.",
+                    "stepImages": [
+                        {                    
+                            "ImageUrl": "step_1_1.jpg",
+                            "ImageAltText": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "procedureName": "Ground Paste",
+            "procedureSteps": [
+                {
+                    "stepNo":  "2",
+                    "stepDescription": "Heat oil in wok or pan. Add all spices except coconut. Let it fry for 1 min or until color changes to light brown whichever is less.",
+                    "stepImages": [
+                        {                    
+                            "ImageUrl": "step_2_1.jpg",
+                            "ImageAltText": ""
+                        }
+                    ]
+                },
+                {
+                    "stepNo":  "3",
+                    "stepDescription": "Switch off the stove. Add coconut and saute till color changes to light brown. Let it cool down. Make a fine paste with water in grinder and keep it aside.",
+                    "stepImages": [
+                        {                    
+                            "ImageUrl": "step_3_1.jpg",
+                            "ImageAltText": ""
+                        },
+                        {                    
+                            "ImageUrl": "step_3_2.jpg",
+                            "ImageAltText": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "procedureName": " For Gravy",
+            "procedureSteps": [
+                {
+                    "stepNo":  "4",
+                    "stepDescription": "Heat oil in a pan or wok. Add all spices and sauté for 1 min.",
+                    "stepImages": [
+                        {                    
+                            "ImageUrl": "step_4_1.jpg",
+                            "ImageAltText": ""
+                        }
+                    ]
+                },
+                {
+                    "stepNo":  "5",
+                    "stepDescription": "Add onions, fry till light brown. Then add ginger garlic paste. Fry till raw smell goes away (~2 mins). Add finely chopped tomatoes. Fry till tomatoes becomes a paste.",
+                    "stepImages": [
+                        {                    
+                            "ImageUrl": "step_5_1.jpg",
+                            "ImageAltText": ""
+                        },
+                        {                    
+                            "ImageUrl": "step_5_2.jpg",
+                            "ImageAltText": ""
+                        },
+                        {                    
+                            "ImageUrl": "step_5_3.jpg",
+                            "ImageAltText": ""
+                        }
+                    ]
+                },
+                {
+                    "stepNo":  "6",
+                    "stepDescription": "Add turmeric and red chilly powder. Sauté for 1 minute. Add ground paste. Mix it well. Transfer the contents to pressure cooker.",
+                    "stepImages": [
+                        {                    
+                            "ImageUrl": "step_6_1.jpg",
+                            "ImageAltText": ""
+                        },
+                        {                    
+                            "ImageUrl": "step_6_2.jpg",
+                            "ImageAltText": ""
+                        }
+                    ]
+                },
+                {
+                    "stepNo":  "7",
+                    "stepDescription": "Add marinated mutton, water and salt. Pressure cook for 5 whistles. Carefully open the lid ad finely chopped coriander leaves.",
+                    "stepImages": [
+                        {                    
+                            "ImageUrl": "step_7_1.jpg",
+                            "ImageAltText": ""
+                        },
+                        {                    
+                            "ImageUrl": "step_7_2.jpg",
+                            "ImageAltText": ""
+                        }
+                    ]
+                },
+                {
+                    "stepNo":  "8",
+                    "stepDescription": "Enjoy hot with rotis and rice.",
+                    "stepImages": []
+                }
+            ]
+        }
+    ],
+    "tips": []
+}
